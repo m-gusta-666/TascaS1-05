@@ -1,0 +1,2432 @@
+D: 1r semestre
+D: Càlcul
+D: resum calcul mero ;(
+F: IMG-20170114-WA0033.jpg
+F: IMG-20170114-WA0034.jpg
+F: IMG-20170114-WA0035.jpg
+F: IMG-20170114-WA0036.jpg
+F: 2011-12_primavera.pdf
+F: enunciats_juny2011.pdf
+F: examen_gener2010.pdf
+F: examen_juny2010.pdf
+F: problemes-juny2014.pdf
+F: problemes_feb2011.pdf
+F: problemes_gener2010.pdf
+F: problemes_gener2012.pdf
+F: Problemes_gener2017.jpg
+F: Problemes_gener2017.php
+F: questions-juny2014.pdf
+F: questions_febrer2011.pdf
+F: questions_gener2012.pdf
+F: Questions_gener2017.php
+F: Qüestions_gener2017.jpg
+F: resolucio-problemes-juny2010.pdf
+F: resolucio-teoria-juny2010.pdf
+F: sol-problemes-gener2014.pdf
+F: sol-teoria-gener2014.pdf
+F: solucions-juny2011.pdf
+F: teoria_gener2010.pdf
+D: Fonaments de Mecànica
+D: resum fmec mero ;(
+F: IMG-20170121-WA0008.jpg
+F: IMG-20170121-WA0009.jpg
+F: IMG-20170121-WA0010.jpg
+F: IMG-20170121-WA0011.jpg
+F: Formulari dinàmica.pdf
+F: Formulari Fmec.pdf
+F: Gener 2009.pdf
+F: Gener 2011 - Enunciats i solucions 2.pdf
+F: Gener 2012 - Enunciats.pdf
+F: Gener 2012 - Solucions.pdf
+F: Gener 2013 - Enunciats.pdf
+F: Gener 2013 - Solucions.pdf
+F: Gener 2014.pdf
+F: Gener 2015 - ASES.pdf
+F: Gener 2015.pdf
+F: Gener 2016.pdf
+F: GENER 2017 (NO SORTIA SOL).pdf
+F: Juny 2010.pdf
+F: Juny 2011 - Enunciats i Solucions.pdf
+F: Juny 2015(1).pdf
+F: Juny 2015.pdf
+F: Juny 2016.pdf
+F: Problemes-Fonaments-Mecanica-12-13.pdf
+F: Prova 2 Avaluacio Continuada 2016-17_v0_Sol.pdf
+F: prova-1-cinematica_Oscar.pdf
+F: Setembre 2010.pdf
+F: Solucio_1a Prova Avaluacio Continuada_2016-17.pdf
+F: Surt sol (pel Martí).pdf
+D: Info
+D: Python Scripts
+D: .ipynb_checkpoints
+F: Untitled-checkpoint.ipynb
+F: Untitled.ipynb
+F: Python.pdf
+D: Química
+F: FORMULARI EXAMEN QUÍMICA 9 de GENER de 2017.pdf
+D: Àlgebra
+D: Examens parcials
+F: IMG-20151014-WA0004.jpg
+F: IMG-20151214-WA0008.jpg
+F: IMG-20151214-WA0009.jpg
+F: IMG-20151214-WA0010.jpg
+F: IMG-20151214-WA0011.jpg
+F: IMG-20151214-WA0012.jpg
+F: IMG-20151214-WA0013.jpg
+F: IMG-20151215-WA0007.jpg
+F: IMG-20151215-WA0008.jpg
+F: IMG-20151228-WA0016.jpg
+F: IMG-20151228-WA0017.jpg
+D: fotos algebra
+F: IMG-20170127-WA0017.jpeg
+F: IMG-20170127-WA0019.jpg
+F: IMG-20170127-WA0020.jpg
+F: IMG-20170127-WA0021.jpg
+F: IMG-20170127-WA0022.jpg
+F: IMG-20170127-WA0023.jpg
+F: IMG-20170127-WA0024.jpg
+F: IMG-20170127-WA0025.jpg
+F: IMG-20170127-WA0026.jpg
+F: IMG-20170127-WA0027.jpg
+F: IMG-20170127-WA0028.jpg
+F: IMG-20170127-WA0029.jpg
+F: IMG-20170127-WA0030.jpg
+F: IMG-20170127-WA0031.jpg
+F: IMG-20170127-WA0032.jpg
+F: IMG-20170127-WA0033.jpg
+F: IMG-20170127-WA0034.jpg
+F: IMG-20170127-WA0035.jpg
+F: IMG-20170127-WA0036.jpg
+F: IMG-20170127-WA0037.jpg
+F: IMG-20170127-WA0038.jpg
+F: IMG-20170127-WA0039.jpg
+F: IMG-20170127-WA0040.jpg
+F: IMG-20170127-WA0041.jpg
+F: IMG-20170127-WA0043.jpg
+F: IMG-20170127-WA0044.jpg
+F: IMG-20170127-WA0045.jpg
+D: 2n semestre
+D: Càlcul 2
+D: Apunts
+F: 5.4_mult_lagrange.pdf
+F: Apuntes Diferenciabilidad.pdf
+F: apuntes_calculo_varias_var.pdf
+F: ART-Convergencia_Series_Reales_1 (1).pdf
+F: calcul2.pdf (També surten EDO's).pdf
+F: cdv-v1.2r (Els del CV).pdf
+F: Cálculo II (Javier Llorente).pdf
+F: Funcions_Implicites2.pdf
+F: lagrange-multipliers.pdf
+F: Límites y continuidad de funciones de varias variables.pdf
+F: sufficent.condition.differentiability.pdf
+F: Teoria_Exercicis_CDV.pdf
+F: Transformada de Laplace.pdf
+D: Exàmens
+D: Finals
+F: Enero 2011.pdf
+F: Gener 2012.pdf
+F: Gener 2014.pdf
+F: Gener 2015 (Problemes).pdf
+F: Gener 2015 (Qüestions).pdf
+F: Gener 2015 Solucions.pdf
+F: Gener 2016 (Problemes).pdf
+F: Gener 2016 (Qüestions) Solució.pdf
+F: Gener 2016 (Qüestions).pdf
+F: Gener 2017 (Problemes).pdf
+F: Gener 2017 (Qüestions).pdf
+F: Gener 2017 Solucions.pdf
+F: Junio 2010 Problemas.pdf
+F: Junio 2010 Teoria.pdf
+F: Junio 2011 Problemas.pdf
+F: Junio 2013 Problemas.pdf
+F: Junio 2014 Cuestiones.pdf
+F: Juny 2012.pdf
+F: Juny 2013 Solucions.pdf
+F: Juny 2015.pdf
+F: Juny 2016.pdf
+F: Septiembre 2013 Problemas.pdf
+F: Septiembre 2014 Problemas.pdf
+F: Septiembre 2015.pdf
+F: Setembre 2015.pdf
+F: Setembre 2016.pdf
+D: Parcials
+F: 2017_Juny_solucions.pdf
+F: examen_parcial_07042016.pdf
+F: IMAG0196(1).jpg
+F: IMAG0196.jpg
+F: image.jpeg
+F: Parcial 2015(1).pdf
+F: Parcial 2015.pdf
+F: Parcial Abril 2014(1).pdf
+F: Parcial Abril 2014.pdf
+F: Parcial M1.pdf
+F: Parcial T1.pdf
+F: parcialM2 2017.pdf
+F: pp1516.pdf
+F: pp1617.pdf
+F: prova parcial nov-2014.pdf
+F: solucio_pp1617.pdf
+F: solucio_prova_parcial_1115_v2.pdf
+F: solucions_ppcdv1415.pdf
+F: Més finals Càlcul II.pdf
+F: Recopilació Finals Càlcul II.pdf
+F: Recopilació Parcials Càlcul II.pdf
+D: Finals
+F: examen2013_definitiu.pdf
+F: problemes gen2015.pdf
+F: questions gen2014.pdf
+F: questions gen2015.pdf
+F: questions jun2015.pdf
+F: questions set2015.pdf
+F: sol questions gen2015.pdf
+D: Parcials
+F: parcial 2014.pdf
+F: parcial 2015.pdf
+F: parcial abr2014.pdf
+F: parcial abr2015.pdf
+F: parcial abr2016.pdf
+F: parcial nov2014.pdf
+F: parcial nov2015.pdf
+F: parcial nov2016.pdf
+F: pp1415.pdf
+F: solucions nov2014.pdf
+F: solucions nov2015.pdf
+F: solucions nov2016.pdf
+F: solucions_ppcdv1415.pdf
+D: Problemes
+D: Problemes Càlcul I-II (UPC)
+D: Càlcul diferencial d'una o diverses variables. Problemes resolts
+F: ME02100C.pdf
+F: ME02103C.pdf
+F: ME02104C.pdf
+F: ME02105C.pdf
+D: Càlcul diferencial de n variables. Problemes resolts
+F: ME00700C.pdf
+F: ME00701C.pdf
+F: ME00702C.pdf
+F: ME00703C.pdf
+F: ME00704C.pdf
+F: Correcció_tutoritzats_Taylor.pdf
+F: Exercicis integrals dobles.pdf
+F: Llistat de problemes.pdf
+F: p_cdv.pdf
+F: problemes Oleguer.pdf
+F: Solucions Tutelats.pdf
+F: Tutelats2.pdf
+D: Resums (pel joan ?)
+F: C.pdf
+F: Formulari CDV Final 2011.pdf
+F: Resum cont i diferenciabilitat.pdf
+F: Resumen.pdf
+D: Teoria i problemes
+D: Apunts
+F: 5.4_mult_lagrange.pdf
+F: Apuntes Diferenciabilidad.pdf
+F: apuntes_calculo_varias_var.pdf
+F: ART-Convergencia_Series_Reales_1 (1).pdf
+F: calcul2.pdf (També surten EDO's).pdf
+F: cdv-v1.2r (Els del CV).pdf
+F: Cálculo II (Javier Llorente).pdf
+F: Funcions_Implicites2.pdf
+F: lagrange-multipliers.pdf
+F: Límites y continuidad de funciones de varias variables.pdf
+F: sufficent.condition.differentiability.pdf
+F: Teoria_Exercicis_CDV.pdf
+D: Resums
+F: C.pdf
+F: Formulari CDV Final 2011.pdf
+F: Resum cont i diferenciabilitat.pdf
+F: Resumen.pdf
+F: cdv-v1.4.pdf
+F: condicions suficients diferenciabilitat.pdf
+F: Correcció_tutoritzats_Taylor.pdf
+F: Funcions_Implicites2.pdf
+F: Llistat de problemes.pdf
+F: p_cdv.pdf
+F: problemes.pdf
+F: Solucions Tutelats.pdf
+F: Tutelats2.pdf
+F: Solucion ari Càlcul II.docx
+D: EDOS
+D: Apunts
+D: Apunts Càlcul Vectorial
+F: Apunts càlcul vectorial.pdf
+F: coordenades_cilindriques_i_esferiques.pdf
+F: Càlcul vectorial.pdf
+D: Apunts Eq. Dif
+F: Apuntes EDOS - UPC.pdf
+F: Ecuaciones_2BDiferenciales_2Bde_2BSegundo_2BOrden.pdf
+F: Equacions diferencials.pdf
+F: Res_Numerica_Eq_dif_Bonet.pdf
+F: Teoria Equacions diferencials - TAL QUAL ELS EXPLICA EL PROFE.pdf
+D: Finals
+F: edcv_gen_2011_pro.pdf
+F: edcv_gen_2011_teo.pdf
+F: edcv_gen_2012_pro.pdf
+F: edcv_gen_2012_teo.pdf
+F: edcv_gen_2013_pro.pdf
+F: edcv_gen_2013_teo.pdf
+F: edcv_gen_2014_pro.pdf
+F: edcv_gen_2014_teo.pdf
+F: edcv_gen_2015_pro.pdf
+F: edcv_gen_2015_teo.pdf
+F: edcv_gen_2016_pro.pdf
+F: edcv_gen_2016_teo.pdf
+F: edcv_gen_2017_pro.pdf
+F: edcv_gen_2017_teo.pdf
+F: edcv_jun_2010_pro.pdf
+F: edcv_jun_2010_teo.pdf
+F: edcv_jun_2011_pro.pdf
+F: edcv_jun_2011_teo.pdf
+F: edcv_jun_2012_pro.pdf
+F: edcv_jun_2012_teo.pdf
+F: edcv_jun_2013_pro.pdf
+F: edcv_jun_2013_teo.pdf
+F: edcv_jun_2014_pro.pdf
+F: edcv_jun_2014_teo.pdf
+F: edcv_jun_2015_pro.pdf
+F: edcv_jun_2015_teo.pdf
+F: edcv_jun_2016_pro.pdf
+F: edcv_jun_2016_teo.pdf
+F: edcv_set_2010_pro.pdf
+F: edcv_set_2010_teo.pdf
+F: edcv_set_2011_pro.pdf
+F: edcv_set_2011_teo.pdf
+F: edcv_set_2012_pro.pdf
+F: edcv_set_2012_teo.pdf
+F: edcv_set_2013_pro.pdf
+F: edcv_set_2013_teo.pdf
+F: edcv_set_2014_pro.pdf
+F: edcv_set_2014_teo.pdf
+F: edcv_set_2015_pro.pdf
+F: edcv_set_2015_teo.pdf
+F: edcv_set_2016_pro.pdf
+F: edcv_set_2016_teo.pdf
+F: Resultats_examens_convocatories_anteriors.pdf
+F: Sol.Finals EDO's.pdf
+D: Parcials
+F: ExamenesParciales.pdf
+F: parcial calcul vectorial M1.jpg
+F: parcial EDOS tardor12b.jpg
+D: Problemes
+D: Exercicis per temes
+F: Ejercicios de EDO's de variables separables.pdf
+F: Ejercicios de EDO's del tipo Bernoulli.pdf
+F: Ejercicios de EDO's exactas.pdf
+F: Ejercicios de EDO's homogéneas.pdf
+F: Ejercicios de EDO's lineales.pdf
+F: Ejercicios de introducción a las ecuaciones diferenciales.pdf
+F: Ejercicios de problemas geométricos.pdf
+F: Ejercicios generales 1.pdf
+F: soluciones bernoulli.pdf
+F: Soluciones de los ejercicios de EDO's de variables separables.pdf
+F: Soluciones de los ejercicios de EDO's lineales.pdf
+F: Soluciones de los ejercicios de problemas geométricos.pdf
+F: Soluciones de los ejercicios generales 1.pdf
+F: soluciones exactas.pdf
+F: soluciones homogeneas.pdf
+F: curbas.pdf
+F: exercicis segon parcial.pdf
+F: Llista_problemes_calc_vect.pdf
+F: Llista_problemes_Eq_dif.pdf
+F: Problemas resuelts EDOS.pdf
+F: Problemes resolts CV..pdf
+F: Resultats_problemes_61-62-63-64.pdf
+D: Resums i formularis
+F: apunts edos ases.pdf
+F: Formulari_edcv_v8.pdf
+F: resum teoria EDOs Álex ASES.pdf
+D: tests mero
+F: 1.jpg
+F: 10.jpg
+F: 11.jpg
+F: 12.jpg
+F: 13.jpg
+F: 14.jpg
+F: 15.jpg
+F: 16.jpg
+F: 17.jpg
+F: 18.jpg
+F: 19.jpg
+F: 2.jpg
+F: 20.jpg
+F: 3.jpg
+F: 4.jpg
+F: 5.jpg
+F: 6.jpg
+F: 7.jpg
+F: 8.jpg
+F: 9.jpg
+F: febicitats!!.zip
+F: Formulari_edcv_v8.pdf
+F: Kyskunov - Cálculo diferencial (Tomo II).pdf
+F: Llista_problemes_Eq_dif.pdf
+F: problema.jpg
+F: Problemes EDOS per temes.pdf
+F: Problemes EDOS+CV+Solucions.pdf
+F: Recopilació Finals EDOS (juny '10 - gener '17).pdf
+D: FEiO
+D: Apunts
+F: 1-Camp elèctric.pdf
+F: 2-Potencial elèctric.pdf
+F: 3-Conductors i condensadors.pdf
+F: 4-Corrent continu.pdf
+F: 5-Camp magnètic.pdf
+F: 6-Induccio electromagnètica.pdf
+F: 7-Corrent altern.pdf
+F: Apunts 2016 (en castellà).pdf
+F: Apunts 2017.pdf
+F: Powerpoints en castellà.pdf
+D: Exàmens
+D: Enigmes - Requereix inspiració
+D: 2011
+F: es la b Toni.png
+D: 2012
+F: bfebebe8d15c853a871d58464bfd7a0d.png
+F: ddd16a5e7474539f3c14a1cdf40cd461.png
+F: és la B.png
+F: és la C (2).png
+F: és la C.png
+D: 2013
+F: aquesta questio pot kys.png
+D: 2014
+F: 4d7a2c53a4731a189c6f836e1bc8972b.png
+F: 55fdf8dd6d7880d954990eac879f531c.png
+F: 56f27565e7857fd0d44ebc6eaf1ea305.png
+F: 79cb87b2e73f2a31d1ea6d60f57b4691.png
+F: 960458922f725c94e22a0a70e1719011.png
+F: ebe786f74514f13658be387219235bf3.png
+F: f906f1ad0f179eed7ac500fa1020dc7c.png
+F: és la D.png
+D: 2015
+F: 13 juny 2015 (sol).jpg
+F: 13 juny 2015.png
+F: 1af8131a5a534fc2d0a8856e969fe77e.png
+F: 31f9f348b03cbd1e562672d5a4a1a710.png
+F: 5b68b55e20e4916ecfb21b6ac5a068cc.png
+F: db322bd7347637a017854e093ed987a6.png
+F: f09853c5bad4a55976e44cfaf054acaf.png
+D: 2016
+F: 27820846fa29cf6b6e3f6f734b7673db.png
+F: 45593e635275d8581d67a55df1309256.png
+F: 48b7d696ccef7ec1febc3630dcd6b00f.png
+F: 4f20775a3712b337293bc7e485a59f45.png
+F: 79fde385ca8c461a8b02466de5ecaa34.png
+F: c2946e0906407b7e2f21149aa2900bb0.png
+F: e4c464e660bc73a2584f0ac6e9d8f879.png
+F: ece6b9add47dc02b0fcef05a2c277ae3.png
+D: Problemes
+F: 1 juny 2016.png
+F: 3dd3814bea81d0952f234f02d705d7f4.png
+F: 49f259e312008a30385723e7d4eb8cdd.png
+F: 4e57822a35a5623c72b0c968b08df3e4.png
+F: 829581a99e16cd13f564d0eef2aa6ee3.png
+F: d27f585454579c2350a375e7cd73ceeb.png
+F: fc9df4d92d37f79016aabb78aeccc5d2.png
+D: Finals
+D: Resolucions d'exàmens
+F: Gener 2014 – 1.jpg
+F: Juny 2007 – 3.jpg
+F: Juny 2014 (EBM) – 1 (I).jpg
+F: Juny 2014 (EBM) – 1 (II).jpg
+F: Juny 2014 (EBM) – 2.jpg
+F: Juny 2014 (EBM) – 3.jpg
+F: Juny 2015 (EBM) – 1 (I).jpg
+F: Juny 2015 (EBM) – 1 (II).jpg
+F: Juny 2015 (EBM) – 2 (I).jpg
+F: Juny 2015 (EBM) – 2 (II).jpg
+F: Juny 2015 (EBM) – 3 (Raigs).jpg
+F: Juny 2015 (EBM) – 3.jpg
+F: Juny 2016 – 1.jpg
+F: Juny 2016 – 2.jpg
+F: Juny 2016 – 3 (Raigs).jpg
+F: Juny 2016 – 3.jpg
+F: Setembre 2015 – 2, 3 (I).jpg
+F: Setembre 2015 – 3 (II).jpg
+F: Setembre 2016 – 1.jpg
+F: Setembre 2016 – 2.jpg
+F: Setembre 2016 – 3 (Raigs).jpg
+F: Setembre 2016 – 3.jpg
+F: Examen cuestiones junio 2015 beta resolución.pdf
+F: Examen cuestiones junio 2015 beta.pdf
+F: Examen cuestiones junio 2016 alpha.pdf
+F: Examen cuestiones junio 2016 soluciones.pdf
+F: Examen cuestiones septiembre 2016.pdf
+F: Examen problemas junio 2015 resolución.pdf
+F: Examen problemas junio 2015.pdf
+F: Examen problemas junio 2016 resolución.pdf
+F: Examen problemas junio 2016.pdf
+F: Examen problemas septiembre 2016.pdf
+F: Gener 2006.pdf
+F: Gener 2007.pdf
+F: Gener 2008.pdf
+F: Gener 2009.pdf
+F: Gener 2010.pdf
+F: Gener 2012 (Problemes).pdf
+F: Gener 2012 (Qüestions).pdf
+F: Gener 2014.pdf
+F: Gener 2016.pdf
+F: Juny 2006.pdf
+F: Juny 2007.pdf
+F: Juny 2008.pdf
+F: Juny 2010 Solució.pdf
+F: Juny 2010.pdf
+F: Juny 2011.pdf
+F: Juny 2012 + solució.pdf
+F: Juny 2012.pdf
+F: Juny 2013 Solució.pdf
+F: Juny 2013.pdf
+F: Juny 2014 (problemes) + solució.pdf
+F: Juny 2014 (qüestions).pdf
+F: Juny 2015 Solució quest+prob.pdf
+F: Juny 2015 Solució qüestions.pdf
+F: Juny 2015.pdf
+F: Juny 2016.pdf
+F: Parcial Març 2012.pdf
+F: Resolución examen cuestiones septiembre 2016.pdf
+F: Resolución examen problemas septiembre 2016.pdf
+F: Setembre 2010 + solució.pdf
+F: Setembre 2013 Solució.pdf
+F: Setembre 2013(1).pdf
+F: Setembre 2013.pdf
+F: Setembre 2014 Solució.pdf
+F: Setembre 2014.pdf
+F: Setembre 2015 Solucions.pdf
+F: Setembre 2015.pdf
+F: Setembre 2016.pdf
+D: Parcials
+D: més parcials
+F: 1r parcial-2a part.pdf
+F: 1r parcial.pdf
+F: 2a prova.pdf
+F: 3a prova.pdf
+F: Parcial FEIO 2015.pdf
+F: Parcial FEIO 2016.pdf
+F: Solucion parcial FEIO 2015 (1).pdf
+F: Solucion parcial FEIO 2015 .pdf
+F: solución-problema primera prueba.pdf
+F: Parcial Abril 2015 M1.pdf
+F: Parcial Abril 2016 M1(1).pdf
+F: Parcial Abril 2016 M1.pdf
+F: Parcial Desembre 2012 (A).pdf
+F: Parcial Febrer 2016 M1 Solució.pdf
+F: Parcial Febrer 2016 M1.pdf
+F: Parcial FEIO 2015.pdf
+F: Parcial Maig 2016 M1.pdf
+F: Parcial Maig 2016 M2.pdf
+F: Parcial Març 2016 M2(1).pdf
+F: Parcial Març 2016 M2.pdf
+F: Parcial Octubre 2012 (A).pdf
+F: Parcial Octubre 2012 (B).pdf
+D: Parcials M2
+F: Prova1-AmbSolució.pdf
+F: Prova2-AmbSolució.pdf
+F: Prova3-AmbSolucions.pdf
+F: Prova4-AmbSolucions.pdf
+F: Parcials FEIO.pdf
+F: Recopilació Finals FEIO (2006-2016).pdf
+D: Formularis
+F: Formulari.pdf
+F: formulario_general.pdf
+F: formulario_tema1.pdf
+F: formulario_tema2.pdf
+F: formulario_tema6.pdf
+F: formulario_tema8.pdf
+D: Problemes
+D: Problemes CV resolts
+F: 1.Problemes.pdf
+F: 10.Problemes.pdf
+F: 2.Problemes.pdf
+F: 3.Problemes.pdf
+F: 4.Problemes.pdf
+F: 5.Problemes.pdf
+F: 6.Problemes.pdf
+F: 7.Problemes.pdf
+F: 8.Problemes.pdf
+F: 9.Problemes.pdf
+F: cuestiones_tema1.pdf
+F: cuestiones_tema4.pdf
+F: cuestiones_tema5.pdf
+F: cuestiones_tema6.pdf
+F: cuestiones_tema7.pdf
+F: cuestiones_tema9.pdf
+F: FEiO 10-11 Problemes tema 1 resueltos.pdf
+F: FEiO 10-11 Problemes tema 10 resueltos.pdf
+F: FEiO 10-11 Problemes tema 2 resueltos.pdf
+F: FEiO 10-11 Problemes tema 3 resueltos.pdf
+F: FEiO 10-11 Problemes tema 4 resueltos.pdf
+F: FEiO 10-11 Problemes tema 5 resueltos.pdf
+F: FEiO 10-11 Problemes tema 6 resueltos (1).pdf
+F: FEiO 10-11 Problemes tema 6 resueltos.pdf
+F: FEiO 10-11 Problemes tema 7 resueltos.pdf
+F: FEiO 10-11 Problemes tema 8 resueltos.pdf
+F: FEiO 10-11 Problemes tema 9 resueltos.pdf
+F: FEiO Problemes Tema 1 resolts.pdf
+F: FEiO_10-11_Problemes_tema_10_resueltos.pdf
+F: FEiO_10-11_Problemes_tema_1_resueltos_marca_de_agua.pdf
+F: FEiO_10-11_Problemes_tema_2_resueltos_marca_de_agua-1.pdf
+F: FEiO_10-11_Problemes_tema_3_resueltos-1.pdf
+F: FEiO_10-11_Problemes_tema_4_resueltos.pdf
+F: FEiO_10-11_Problemes_tema_5_resueltos.pdf
+F: FEiO_10-11_Problemes_tema_6_resueltos.pdf
+F: FEiO_10-11_Problemes_tema_8_resueltos.pdf
+F: FEiO_10-11_Problemes_tema_9_resueltos.pdf
+F: Problemes Resolts Tema 1.pdf
+F: Problemes Resolts Tema 10.pdf
+F: Problemes Resolts Tema 7.pdf
+F: Problemes Resolts Tema 8.pdf
+F: tema7_alguns_probs_resolts.pdf
+F: Llista de problemes.pdf
+F: Problemes FEIO resolts.pdf
+D: Qüestionaris i Autoavaluacions
+F: Autoavaluació 1.pdf
+F: Autoavaluació 2.pdf
+F: Autoavaluació 3.pdf
+F: Autoavaluació 4.pdf
+F: Autoavaluació 5.pdf
+F: Autoavaluació 6.pdf
+F: Autoavaluació 7.pdf
+F: Autoavaluació 8.pdf
+F: Autoavaluació 9.pdf
+F: Autoavaluació T.1.docx
+F: CAE2013.pdf
+F: CAE2013Q.pdf
+F: Preguntes qüestionaris online FEiO.xlsx
+F: Qüestionari 1.pdf
+F: Qüestionari 2.pdf
+F: Qüestionari 3.pdf
+F: Qüestionari 4.pdf
+F: Qüestionari 5.pdf
+F: Qüestionari 6.pdf
+F: Qüestionari 7.pdf
+F: Qüestionari 8.pdf
+D: TEMA 1
+F: Capítol 1-Camp elèctric 16-17.pdf
+F: Ejercicio 1. Carga eléctrica y distribuciones de carga.pdf
+F: Ejercicio 2. Ley de Coulomb.pdf
+F: Ejercicio 3. Campo eléctrico. Teorema de Gauss.pdf
+F: Electric Field FEiO 16-17 to print.pdf
+D: TEMA 10
+F: Capítol 10-Miralls, dioptres i lents 16-17.pdf
+F: Espejos y lentes FEiO 16-17 versión para imprimir.pdf
+D: TEMA 11
+F: Capítol 11-Instruments òptics 160527.pdf
+F: Instrumentos ópticos FEiO 16-17 para imprimir.pdf
+D: TEMA 2
+F: Capítol 2-Potencial elèctric 16-17.pdf
+F: Ejercicio 4. Potencial electrostático.pdf
+F: Electric Potential to print FEiO 16-17.pdf
+D: TEMA 3
+F: Capítol 3-Conductors 16-17.pdf
+F: Conductors to print FEiO 16-17.pdf
+F: Ejercicio 5. Conductores.pdf
+D: TEMA 4
+F: Capítol 4-Corrent elèctric 16-17.pdf
+F: Ejercicio 6. Corriente eléctrica.pdf
+D: TEMA 5 - Camp magnètic
+F: Capítol 5-Camp magnètic 16-17.pdf
+F: Ejercicio 7. Fuerza magnética. Campo magnético.pdf
+D: TEMA 6 - Inducció
+F: Capítol 6-Inducció electromagnètica 16-17.pdf
+F: Ejercicio 8. Inducción electromagnética.pdf
+D: TEMA 7 - Corrent altern
+F: Capítol 7-Corrent altern 16-17.pdf
+F: Corriente alterna FEOFA 16-17 versión para imprimir.pdf
+D: TEMA 8
+F: Capítol 8-Equacions de Maxwell i ones electromagnètiques 16-17.pdf
+F: Maxwells equations to print FEiO 16-17.pdf
+D: TEMA 9
+F: Capítol 9-Reflexió i refracció de la llum 16-17.pdf
+F: Reflexión y refracción de la luz FEOFA 16-17 versión para imprimir.pdf
+F: FEiO-Problemes-v170110.pdf
+F: Formulario FEiO 16-17.pdf
+F: Sistemas_de_coordenadas.pdf
+F: Solucion ari FEIO.docx
+F: Teoría completa 16-17 con nº portada index.pdf
+D: FOFT
+F: 1_Hidostática.pdf
+F: 2_Hidrodinámica.pdf
+F: 3_Calorimetría.pdf
+F: 4_Transferencia de calor.pdf
+F: 4_Transferencia de calor.zip
+F: 5_Termodinámica de un gas ideal.pdf
+F: 6_Movimiento ondulatorio.pdf
+F: 7_Superposición de ondas.pdf
+F: 8_Ondas sonoras.pdf
+F: Finals FOFT.pdf
+F: p-foft-14P-t2-v1.pdf
+F: p-foft-17P-t1.pdf
+F: SOLUCIONES TERMO.pdf
+F: www.lawebdefisica.com_files_chuletarios_arreldepi_formulari_FOFT.pdf
+D: FoLab
+D: Informes i tasques (fets)
+F: alçada-massa-penjat-2017.ods
+F: dibuix lent.png
+F: guió pràctica 6.pdf
+F: Informe - lent convergent (MERO).pdf
+F: Informe - pe?ndol fi?sic .pdf
+F: Informe 2 martí.pdf
+F: Informe2.docx
+F: Llei d'Ohm.ods
+F: Llei d'Ohm.xlsx
+F: llei ohm fig 1.png
+F: llei ohm fig 2.png
+F: llei ohm fig 3.png
+F: pdf ohm.pdf
+F: Practica 3 Versió campus virtual.pdf
+F: practica5_grup_2017.xlsx
+F: Practica_5_versio_2012.pdf
+F: Problema de Cap de Setmana_ Grups M1 i T1_Primavera 2017 (1).pdf
+F: Pràctica 3 - Lent.xlsx
+F: PRÀCTICA 4 - CALOR - martí.docx
+F: Pràctica 4 - Calor.xlsx
+F: Pràctica 6 - Llei d'Ohm (reprise).xlsx
+F: Pràctica 6 versió campus2.pdf
+F: PRÀCTICA 6.docx
+F: PRÀCTICA 6.pdf
+F: Pràctica lent - Martí.docx
+F: Pràctica lent - Martí.pdf
+F: Pèndol.ods
+F: Pèndol.xlsx
+F: tasca finde 1 (1).ods
+F: Tasca_1_Martí_Gustamante_Clavell.odt
+F: Tasca_1_Martí_Gustamante_Clavell.pdf
+F: writer ohm.odt
+F: writer Pendol.odt
+F: writer puta bullshit exercici.odt
+D: Pràctiques
+D: informes hoff
+F: L1-informe.pdf
+F: L1-informe.rar
+F: L2-informe.pages
+F: L2-informe.pdf
+F: L3-informe.pages
+F: L3-informe.pdf
+F: L4-informe.pages
+F: L4-informe.pdf
+F: L5-informe.pages
+F: L5-informe.pdf
+F: L6-informe.pages
+F: L6-informe.pdf
+F: Informe 3.pdf
+F: informe 5.odt
+F: INFORME PRACTICA 5 LAB.odt
+F: Informe pràctica 5.odt
+F: informe_model_P1_v1.ods
+F: informe_Practica1_acabada.pdf
+F: informepràctica2GuillemSimeon.pdf
+F: L1-informe.pdf
+F: L2-informe.pdf
+F: L3-informe.pdf
+F: L4-informe.pdf
+F: L5-informe.pdf
+F: L6-informe.pdf
+F: lab informe termod final definitiu hostia ya. pdf.pdf
+F: LABORATORI 4.pdf
+F: Labs- practica 1.docx
+F: lent ciu b.pdf
+F: Llei d'Ohm.pdf
+F: llei de hooke.docx
+F: Llei d’Ohm i comportament d’un díode.docx
+F: Olivar_14900830_tasca.ods
+F: P1LAB.pdf
+F: P2LAB.pdf
+F: P3LAB.pdf
+F: P4LAB.pdf
+F: P5LAB.pdf
+F: P6LAB.pdf
+F: PR.zip
+F: Prac2.pdf
+F: pract2.docx
+F: Practica 1.pdf
+F: PRACTICA 1_LLEI D'OHM.ods
+F: Practica 2 - Pendol (Albert).ods
+F: Practica 2- Fonam. Lab.pdf
+F: Practica 2.pdf
+F: PRACTICA 2.xlsx
+F: PRACTICA 3 LAB.pdf
+F: Practica 4.pdf
+F: practica 4.xlsx
+F: Practica 5 labo.ods
+F: Practica 5.pdf
+F: PRACTICA 6 (1).pdf
+F: Practica 6 (2).pdf
+F: Practica 6 - Carlota Borrell Padrós, Grup T1C A.pdf
+F: Practica 6 laboo.ods
+F: Practica 6 Milan.pdf
+F: Practica 6.pdf
+F: PRACTICA2(office).odt
+F: practica3.ods
+F: Practica4.pdf
+F: PRACTICA5FINAL.pdf
+F: Pràctica 1 (1).docx
+F: Pràctica 1 (1).ods
+F: Pràctica 1 FL.xlsx
+F: Pràctica 1 word.docx
+F: Pràctica 1.docx
+F: Pràctica 1.ods
+F: Pràctica 2 - Pèndol Mecànic (1).pdf
+F: Pràctica 2 - Pèndol Mecànic.pdf
+F: Pràctica 2.docx
+F: Pràctica 3 Lent.ods
+F: Pràctica 3.doc
+F: pràctica 3.pdf
+F: pràctica 5-Mg.pdf
+F: Pràctica 5.pdf
+F: PRÀCTICA 6 bona.pdf
+F: Pràctica 6.pdf
+F: Práctica 2.docx
+F: Práctica 3 final.pdf
+F: Práctica6.pdf
+F: Tungstè.pdf
+D: Teoria
+D: Apunts
+F: 03.02. T3 Apunts Sandra.pdf
+F: Apunts Fonamens de Laboratori.pdf
+F: Còpia de Estadística descriptiva.pdf
+F: Còpia de Incerteses experimentals.pdf
+F: Còpia de RLab T1.pdf
+F: Còpia de RLab T2.pdf
+F: GRÀFIQUES CIENTÍFIQUES_M2.pdf
+F: Tema 1 - Gràfiques científiques.pdf
+F: Tema 2 - Incerteses experimentals.pdf
+F: Pautes_d_elaboracio_i_correccio_dels_informes.pdf
+F: Practica 1 Versió campus virtual 2016.pdf
+F: Practica 2 Versió campus virtual.pdf
+F: tutorial_v3.pdf
+F: FORMULARI FONAMENTS DE LABORATORI ok.docx
+F: FORMULARI FONAMENTS DE LABORATORI[1868] (Autoguardado).docx
+F: FORMULARI FONAMENTS DE LABORATORI[1868].docx
+F: informe_model_P1_v1.ods
+D: 3r semestre
+D: Astronomia
+F: 1_historia.pdf
+F: 2_radiacio.pdf
+F: 3_estrelles.pdf
+F: 4_sol.pdf
+F: 5_sistsolar.pdf
+F: 6_exoplanetes.pdf
+F: 7_galaxia.pdf
+F: 8_galaxies.pdf
+F: 9_cosmologia.pdf
+F: astro_prob.pdf
+F: Astronomia FINAL.pdf
+F: Formulari-Astronomia.pdf
+F: Galileu_Galilei.pdf
+F: Resum Astronomia 2 pag .pdf
+F: Resum Astronomia 2017.pdf
+F: RESUMPRACTIQUESASTRO.pdf
+D: Mecànica
+D: Apunts-Teoria
+F: Apuntes clase - JM.pdf
+F: Apunts antics de Mecànica.pdf
+F: biblio.pdf
+F: cap1.pdf
+F: cap2.pdf
+F: cap3.pdf
+F: cap4.pdf
+F: cap5.pdf
+F: fisgeo2.pdf [Mecànica analítica].pdf
+F: fluids.pdf
+F: MecànicaTemes 1 a 5.pdf
+F: ones.pdf
+F: The Lagrangian Method.pdf
+D: Exercicis
+F: Exercici 3.06 fins al 5.06 resolts [Mecànica].pdf
+F: IMG.pdf
+F: IMG_0001.pdf
+F: IMG_0002.pdf
+F: IMG_0003.pdf
+F: IMG_0004.pdf
+F: IMG_0005.pdf
+F: IMG_0006.pdf
+F: IMG_0007.pdf
+F: IMG_0008.pdf
+F: IMG_0009.pdf
+F: Llistat de problemes.pdf
+F: MCNC_PRB-2017-2018 (CV).pdf
+F: Prb1.6.pdf
+F: prob2010-11.pdf
+F: Problema 1 mecànica analítica.pdf
+F: Problemes mecànica analítica.pdf
+D: Exàmens
+D: Finals
+F: 1998.06 [p+q].pdf
+F: 1998.07 [p+q].pdf
+F: 1999.06 [p+q].pdf
+F: 1999.07 [p+q].pdf
+F: 2000.01 [p+q].pdf
+F: 2000.06 [p+q].pdf
+F: 2001.02 [q].pdf
+F: 2001.06 [q].pdf
+F: 2002.02 [p+q].pdf
+F: 2003.01 [p+q].pdf
+F: 2003.06 [p+q].pdf
+F: 2004.01 [p+q].pdf
+F: 2004.06 [p+q].pdf
+F: 2005.01 [p+q].pdf
+F: 2005.06 [p+q].pdf
+F: 2006.02 [p+q].pdf
+F: 2006.06 [p+q].pdf
+F: 2007.01 [p+q].pdf
+F: 2007.06 [p+q].pdf
+F: 2008.02 [p+q].pdf
+F: 2008.06 [p+q].pdf
+F: 2008.06 [s].pdf
+F: 2012.01 [q].pdf
+F: 2012.06 [q] (I).pdf
+F: 2012.06 [q] (II).pdf
+F: 2013.01 [p+q].pdf
+F: 2013.01 [s].pdf
+F: 2013.06 [p+q].pdf
+F: 2013.06 [s] (II).pdf
+F: 2013.06 [s].pdf
+F: 2013.09 [p+q+s].pdf
+F: 2014.01 [sol].pdf
+F: 2015.09 [p+q].pdf
+F: 2016.01 Mecànica (enunciats).pdf
+F: 2016.01 Mecànica (solucions).pdf
+F: 2016.06 Mecànica (enunciats).pdf
+F: 2016.06 Mecànica (solucions).pdf
+F: 2016.09 Mecànica (enunciats).pdf
+F: 2016.09 Mecànica (solucions).pdf
+F: 2017.01 [p+q].pdf
+F: 2017.01 [s].pdf
+F: MCNC_2017_1C.pdf
+F: MCNC_2017_1Cs.pdf
+F: MCNC_2017_2C.pdf
+F: MCNC_2017_2Cs.pdf
+F: MCNC_2017_3C.pdf
+F: MCNC_2017_3Cs.pdf
+F: Recopilació Exàmens Mecànica (1998-2017).pdf
+D: Parcials
+F: AirDroid_Desktop_Client_3.5.4.0.exe
+F: MCNC_2016_EC2.pdf
+F: par1 (Tardor 2017, M1).pdf
+F: Parcial 2 (Tardor 2017, M1).pdf
+F: Prova mecanica 1.pdf
+F: Prova_1_nov12_solucions.pdf
+F: Tema-III.pdf
+F: Test de forces centrals.pdf
+D: Exàmens CV
+F: MCNC_2016_1C.pdf
+F: MCNC_2016_1Cs.pdf
+F: MCNC_2016_2C.pdf
+F: MCNC_2016_2Cs.pdf
+F: MCNC_2016_3C.pdf
+F: MCNC_2016_3Cs.pdf
+F: MCNC_2017_1C.pdf
+F: MCNC_2017_1Cs.pdf
+F: MCNC_2017_2C.pdf
+F: MCNC_2017_2Cs.pdf
+F: MCNC_2017_3C.pdf
+F: MCNC_2017_3Cs.pdf
+D: Formularis
+F: Copy of Formulari_edcv_v8.pdf
+F: Documento15_01_17 17_02.pdf
+F: Documento16_01_17 12_03.pdf
+F: Formulari EDOS.pdf
+F: Formulari mec 4 gener 2.docx
+F: Formulari meca?nica (1).docx
+F: Formulari meca?nica.docx
+F: Formulari Mecànica.pdf
+F: Formulari.docx
+F: formulari.pdf
+F: Formulari2.docx
+F: formulariomec(f.centrales).pdf
+F: J.González Camps Centrals 2012-13.pdf
+F: J.González Mecanica analítica 2012-13.pdf
+F: J.González Relativitat 2012-13.pdf
+F: mecànica formulari001.pdf
+D: Pràctiques
+D: Guions pràctiques
+F: p1.pdf
+F: p2.pdf
+F: p3.pdf
+F: p4.pdf
+F: p5.pdf
+F: p6.pdf
+F: p7.pdf
+F: p8.pdf
+D: Pràctica 1
+F: P1 Informe.pdf
+F: P1-informe.pdf
+F: P1.odt
+F: practica 1 mec.pdf
+F: practica1.mecanica.pdf
+F: Practica_1_Mecanica.pdf
+F: Pràctica 1 Mecànica.pdf
+D: Pràctica 2
+F: P2-1.pdf
+F: P2-informe.pdf
+F: P2.odt
+F: Practica 2 Mecanica. Cuerda vibrante.pdf
+F: practica2.mecanica.pdf
+F: Pràctica II.pdf
+D: Pràctica 3
+F: P3-informe.pdf
+F: P3.odt
+F: practica3.mecanica.pdf
+F: Pràctica III.pdf
+D: Pràctica 4
+F: INFORME PRÀCTICA 4.pdf
+F: P4-informe.pdf
+F: P4.odt
+F: Pra.pdf
+F: practica4.mecanica.pdf
+F: Pràctica IV.pdf
+D: Pràctica 5
+F: P5-informe.pdf
+F: P5.odt
+F: practica5.mecanica.pdf
+F: Pràctica V.pdf
+D: Pràctica 6
+F: P6-informe.pdf
+F: P6.odt
+F: Practica 6 pepino.pdf
+D: Pràctica 7
+F: P7-informe.pdf
+F: P7.odt
+F: practica7.mecanica.pdf
+F: PRÀCTICA VII diss.docx
+F: PRÀCTICA VII.docx
+D: Pràctica 8
+F: P8-informe.pdf
+F: P8.odt
+F: Pràctica 8.docx
+F: informe roda de maxwell.pdf
+F: Rueda de Maxwell.pdf
+D: Pràctiques MEC
+D: Fetes
+F: Copia de PRAC 1 MEC.xlsx
+F: grafiques magiques oscilatories ninja.xlsx
+F: p1.pdf
+F: p2.pdf
+F: p3.pdf
+F: p4.pdf
+F: p5.pdf
+F: p6.pdf
+F: p7.pdf
+F: p8.pdf
+F: PRAC 1 MEC.xlsx
+F: prac 1 sida  max.docx
+F: PRAC 1 SIDA.docx
+F: prac 2.xlsx
+F: PRAC 3 MEC.xlsx
+F: PRAC 4 MEC.xlsx
+F: prac 4 sida  max.docx
+F: prac 6 mec.docx
+F: prac 8 grafica + errors en a.docx
+F: prac 8 mec.docx
+F: Prac.3_mec bona 100% real NO FAKE.docx
+F: Prac.5_mecànica_Torres_Gustamante_M1.pdf
+F: Prac.6_mec.xlsx
+F: Prac.6_mec.xlsx.docx
+F: Prac.7_mec.xlsx
+F: Prac.8_mec.xlsx
+F: q3 q4 q5 (casi)   prac 2.docx
+F: q4 q5 q6asi)   prac 2.docx
+F: Qüestió 6 oractica 4.docx
+F: Redactat sida Q5.docx
+D: mecnica
+F: 1 - copia.dat
+F: 1.dat
+F: 20 - copia.dat
+F: 20.dat
+F: 30 - copia.dat
+F: 30.dat
+F: 4 abans motor - copia.dat
+F: 4 abans motor.dat
+F: 40 - copia.dat
+F: 40 bo - copia.dat
+F: 40 bo.dat
+F: 40.dat
+F: 43 - copia.dat
+F: 43.dat
+F: 47 - copia.dat
+F: 47.dat
+F: 50 - copia.dat
+F: 50.dat
+F: 53 - copia.dat
+F: 53.dat
+F: 57 - copia.dat
+F: 57.dat
+F: 60 - copia.dat
+F: 60.dat
+F: 70 - copia.dat
+F: 70.dat
+F: 80 - copia.dat
+F: 80.dat
+F: mesura 3 - copia.dat
+F: mesura 3.dat
+F: mesura 4.dat
+F: mesura quasi 4.dat
+F: Practica_4.pdf
+F: sobresmorteït.dat
+F: Formulari Mecànica examen.pdf
+F: recull problemes mec.pdf
+D: Mètodes 1
+D: Exàmens
+D: Exàmens parcials
+F: 1er_parcial_2014(tardor).pdf
+F: MMF1_1.pdf
+F: MMF1_1_2011_enu.pdf
+F: MMF1_1_sol.pdf
+F: MMF1_2010_P1_v1.pdf
+F: MMF1_2_A_2012-2013_.pdf
+F: MMF1_2_resp_2011_v4.pdf
+F: MMF1_2_resp_v2012.pdf
+F: MMF1_3_2011.pdf
+F: MMF1_3_A.pdf
+F: MMF1_3_A_solucio_2012-2013.pdf
+F: MMF1_3_nadal.pdf
+F: MMF1_3_resp_2011.pdf
+F: MMF1_A_2012-2013.pdf
+F: Parcial 1 Mètodes Tardor 2016.pdf
+F: Parcial 1 Tardor 2017 M2.pdf
+F: Parcial 2 Mètodes Tardor 2016.pdf
+F: Parcial 2 Tardor 2017 M2.pdf
+F: Parcial 3 Mètodes Tardor 2016.pdf
+F: parcial1.pdf
+F: parcial1_2010.pdf
+F: parcial1_2010_solucio.pdf
+F: parcial2_2010.pdf
+F: parcial3_enviarMescia.pdf
+F: parcial_3er_solucio.pdf
+F: Pont_de_La_Costitucio [Cauchy, sèries].pdf
+F: Prova2_2011_sol_estudiants_v1.pdf
+F: Prova_dHercules_v1 [Sèries, integració].pdf
+F: recepta_solucio_MMF_1_probabilitat_2011_v2.pdf
+F: Repas-Exercisi_2012_v3.pdf
+F: resolucio_control_acreditatiu_01_T1_22_marc_2010.pdf
+F: resolucio_control_acreditatiu_02_T1_03_maig_2010.pdf
+F: sol_MMF1_3_2017 [Parcial 3, M2, Tardor 2017].pdf
+F: Solucio_3_MMF1_2011.pdf
+F: Solucio_prova_1.pdf
+F: Solucio_prova_d_avaluacio_15-11-2010_1.pdf
+D: Finals
+D: Problemes resolts
+F: P1 Gener 2013 (I).jpg
+F: P1 Gener 2013 (II).jpg
+F: P1 Gener 2013 (III).jpg
+F: P1 Gener 2016 (I).jpg
+F: P1 Gener 2016 (II).jpg
+F: P1 Juny 2013 (I).jpg
+F: P1 Juny 2013 (II).jpg
+F: P1 Juny 2015.jpg
+F: P1 Juny 2016 (I).jpg
+F: P1 Juny 2016 (II).jpg
+F: P2 Gener 2011.jpg
+F: P2 Gener 2013.jpg
+F: P2 Gener 2016 (I).jpg
+F: P2 Gener 2016 (II).jpg
+F: P2 Juny 2013.jpg
+F: P2 Juny 2015.jpg
+F: P2 Juny 2016 (I).jpg
+F: P2 Juny 2016 (II).jpg
+F: P3 Gener 2013 (I).jpg
+F: P3 Gener 2013 (II).jpg
+F: P3 Gener 2013 (III).jpg
+F: 2011.01 MMF1 (problemes).pdf
+F: 2011.01 MMF1 (teoria).pdf
+F: 2011.01 MMF1 (teoria, solució).pdf
+F: 2011.06 MMF1 (preguntes).pdf
+F: 2011.06 MMF1 (problemes, solució).pdf
+F: 2011.06 MMF1 (teoria).pdf
+F: 2011.06 MMF1 (teoria, solució).pdf
+F: 2012.01 MMF1 (problemes).pdf
+F: 2012.01 MMF1 (problemes, solució).pdf
+F: 2012.01 MMF1 (teoria).pdf
+F: 2012.01 MMF1 (teoria, solució).pdf
+F: 2013.01 MMF1 (problemes).pdf
+F: 2013.01 MMF1 (sol problemes).pdf
+F: 2013.01 MMF1 (sol teoria).pdf
+F: 2013.01 MMF1 (teoria).pdf
+F: 2014.01 MMF1 (problemes + sol).pdf
+F: 2014.01 MMF1 (teoria, solució).pdf
+F: 2014_Gener_Problemes.pdf
+F: 2015.01 MMF1 (problemes, solució).pdf
+F: 2015.01 MMF1 (teoria, solució).pdf
+F: 2015.06 MMF1 (solucions).pdf
+F: 2015.06 MMF1 (teoria i problemes).pdf
+F: 2016.01 MMF1 (solucions).pdf
+F: 2016.01 MMF1 (teoria i problemes).pdf
+F: 2017.01 MMF1 (enunciats).pdf
+F: 2017.01 MMF1 (solució).pdf
+F: problema_E_09_Gener_2013.pdf
+F: Recopilació Finals Mètodes I (2011-2017).pdf
+F: Resp_problema_E_09_Gener_2013.pdf
+F: resp_problemes_b2.pdf
+F: Resp_teoria_E_09_Gener_2013.pdf
+F: teoria_E_09_Gener_2013.pdf
+F: parcial1_solucio.jpg
+F: Pont_de_La_Costitucio (1).pdf
+D: Probabilitat
+F: Algunes poques demostracions.pdf
+F: Enunciats_2015-16.pdf
+F: solucio_problemes_probabilitat_2015-16.pdf
+F: teoria-prob-mescia-frontend.pdf
+F: Teoria.pdf
+F: teoria_latex-mescia [El del CV].pdf
+D: Variable Complexa
+D: Apunts al CV
+F: apunts_tema1.pdf
+F: apunts_tema2.pdf
+F: apunts_tema3.pdf
+F: apunts_tema4.pdf
+F: apunts_tema5.pdf
+F: Repas XUPIGUAY.pdf
+F: var_comp_1.pdf
+F: var_comp_2.pdf
+F: var_comp_3.pdf
+F: var_comp_4.pdf
+F: 11.pdf
+F: Apunts Variable Complexa [CV].pdf
+F: apunts_multivaluades.pdf
+F: apunts_respas_exericis_preparacio_parcial2.pdf
+F: C05_Residuos.pdf
+F: Complex Integration.pdf
+F: complex_variables.pdf
+F: CR_variables_polares.pdf
+F: Criteri_de_Con.pdf
+F: Els_Pastorets_les_superficie_de_Riemann.pdf
+F: Enunciats_VComplexa_2016_2.pdf
+F: Funciones de variable compleja.pdf
+F: Solucio_VComplexa_2016.pdf
+F: Superficies_de_Riemann.pdf
+F: Variable Compleja (Univ. Granada).pdf
+F: Variables_Complexes_Repas.pdf
+F: vc-ag.pdf
+F: VC4.pdf
+F: Criteri_de_Con.pdf
+D: Termodinàmica
+D: CV
+F: 10_Treball_i_diferecials_inexactes.pdf
+F: 11_Treball_dissipatiu_calor_i_experiment_de_Joule.pdf
+F: 12_Treball_adiabatic_i_primer_principi.pdf
+F: 13_Equacio_energetica_d_estat.pdf
+F: 14_Capacitats_calorifiques.pdf
+F: 1_Introducció.pdf
+F: 2_Sistema_termodinamic_i_variables_d_estat.pdf
+F: 3_Estas_d_equilibri_i_processos.pdf
+F: 4_Principi_zero.pdf
+F: 5_Termometres_i_escales_termometriques.pdf
+F: 6_Processos_quasi-estatics.pdf
+F: 7_Reconstrucció_de_l_equació_tèrmica_d_estat.pdf
+F: 8_Exemples_d_equacions_tèrmiques_d_estat.pdf
+F: 9_Diagrames_de_fase.pdf
+D: Drive
+D: Apunts-Teoria
+D: Powerpoints
+F: 10_Treball_i_diferecials_inexactes.pdf
+F: 11_Calor_i_primer_principi.pdf
+F: 12_Equacio_energetica_d_estat.pdf
+F: 13_Capacitats_calorifiques.pdf
+F: 14_Cicles_i_motors.pdf
+F: 15_El_motor_de_Stirling.pdf
+F: 16_El_cicle_de_Carnot.pdf
+F: 17_Irreversibilitat.pdf
+F: 1_Introduccio.pdf
+F: 1_Introducció.pdf
+F: 2_Sistema_termodinamic_i_variables_d_estat.pdf
+F: 2_Variables_d_estat_i_definicio_d_equilibri.pdf
+F: 3_Estas_d_equilibri_i_processos.pdf
+F: 3_Tendencia_a_l_equilibri_i_processos.pdf
+F: 4_Principi_zero.pdf
+F: 5_Termometres_i_escales_termometriques.pdf
+F: 6_Equacio_temica_d_estat.pdf
+F: 7_Processos_quasi-estatics.pdf
+F: 8_Equacio_de_van_der_Waals.pdf
+F: 9_Diagrames_de_fase.pdf
+F: Apuntes termo Jaime Madrid (1).pdf
+F: c10 - Relacions Termodinàmiques.pdf
+F: termodinamicaRESUM.pdf
+D: Exàmens
+D: Finals
+F: 2002.06 [p+q].pdf
+F: 2003.02 [p+q].pdf
+F: 2004.02 [p+q].pdf
+F: 2004.06 [p+q].pdf
+F: 2005.01 [p+q].pdf
+F: 2005.06 [p+q].pdf
+F: 2006.01 [p+q].pdf
+F: 2006.06 [p+q].pdf
+F: 2009.01 [p+q].pdf
+F: 2010.01 [p+q].pdf
+F: 2011.01 [p+q].pdf
+F: 2011.06 [p+q].pdf
+F: 2013.01 [p+q].pdf
+F: 2014.01 [p+q+sol].pdf
+F: 2014.06 [p+q+sol].pdf
+F: 2014.09 [p+q].pdf
+F: 2015.01 [p+q+sol].pdf
+F: 2015.06 [p+q].pdf
+F: 2015.09 [q].jpg
+F: 2015.09 [q].pdf
+F: exa_cuest_08_03.pdf
+F: Recopilació Exàmens Termodinàmica (2002-2015).pdf
+D: Parcials
+F: 1r Parcial Primer Principi.pdf
+F: __Parcial grup M1.jpg
+F: CONTROL_2009_resolt.pdf
+F: Parcial grup M1.jpg
+F: parcial Termodinàmica-abril13.pdf
+F: Parciales 2010.pdf
+F: Prova Canvis de fase.pdf
+F: Solucio_Control-I.pdf
+F: Solucio_Prova_I.pdf
+F: Solucio_Prova_Segon_principi.pdf
+F: ASENSI P3.pdf
+F: examens.pdf [Alguns exàmens 2006-2008].pdf
+F: examens_termo [Solucions a molts exàmens].pdf
+F: Solucions_examen_tardor_2010.pdf
+D: Formularis
+F: 20150127_182718[1].jpg
+F: Eqs_Energia_Entalpia.pdf
+F: formulari 1 pag.pdf
+F: Formulari de Termodinàmica.pdf
+F: Formulari Termo Zemansky.pdf
+F: Formulari Termodinàmica.pdf
+F: Formulari_Termodinàmica.pdf
+F: Relacions_Termodinamiques_TCV.pdf
+F: resumstermo.pdf
+D: Llibres
+F: Calor y termodinámica  - Zemansky.pdf
+F: Fermi, Enrico - Thermodynamics.pdf
+F: librotermodinamica [Problemes].pdf
+F: Termodinamica, teoria cinetica y termodinamica estadistica 1978 - Sears _ Salinger.pdf
+D: Problemes
+F: Exercicis opcionals.pdf
+F: Problemas resueltos.pdf
+F: Tema-I.pdf
+D: Pràctiques
+D: Pràctica 1
+F: P1-informe.pdf
+F: P1termo.docx
+F: prac 1.pdf
+F: practica1.pdf
+D: Pràctica 2
+F: Informe práctica 2 Termodinámica.pdf
+F: P2-informe-.pdf
+F: P2-informe.pdf
+F: Practica2.pdf
+F: practica_2.odt
+D: Pràctica 3
+F: PRÀCTICA-3.pdf
+F: pràctica3.pdf
+D: Pràctica 4
+F: informe_Prac4_termo.pdf
+F: P4-informe.pdf
+F: pràcitca 4.odt
+F: Pràctica 4.termo.docx
+D: Pràctica 5
+F: P5-informe.pdf
+F: Pràctica5(LLARGA).pdf
+D: Pràctica 6
+F: informe_Prac6_termo.pdf
+F: P6-informe.pdf
+F: Pràctica 6.docx
+D: Pràctica 7
+F: INFORME_LLARG.pdf
+F: informe_Prac7_termo.pdf
+F: PR.pdf
+F: Practica 7.pdf
+F: Pràctica 7 termo, llarga.odt
+F: Pràctica 7 Termo.pdf
+D: Pràctica 8
+F: Informe P. 8 Termodinamica.pdf
+F: informe_Prac8_termo.pdf
+F: P8-report.pdf
+F: Practica 8.pdf
+F: practica8termo.pdf
+F: Práctica_8_Termodinámica.pdf
+F: Termodinàmica_Pràctica_8_Informe.pdf
+D: Pràctica 9
+F: INFORME -P9.pdf
+F: P9 ENTREGA.pdf
+F: practica conductivitat.pdf
+F: Pràctica 9pdf.pdf
+F: GUIONS-PRACTIQUES.pdf
+F: examens_termo [Solucions a molts exàmens].pdf
+F: Solucion ari Termo.docx
+F: Solucionari EXÀMENS Termo.docx
+D: Problemes
+F: Tema-I.pdf
+F: Tema-II.pdf
+F: Tema-III.pdf
+F: Tema-IV.pdf
+F: Tema-V.pdf
+F: Tema-VI.pdf
+F: Tema-VII.pdf
+D: Pràctiques TERMO
+D: fet
+F: calcul s de t practica termo 4.xlsx
+F: grafiques prac 4.docx
+F: GUIONS 1-4.pdf
+F: Lectura del microcalorimetre anna sofia calor.xlsx
+F: Lectura del microcalorimetre anna sofia.xlsx
+F: Lectura del microcalorimetre_1 Martí_Alex.xls
+F: Lectura del microcalorimetre_2 Martí_Alex.xls
+F: Lectura del microcalorimetre_3 Martí_Alex.xls
+F: Prac 8 termo.docx
+F: prac 8.xlsx
+F: PRAC 9 bo (suposo).xlsx
+F: prac 9.docx
+F: PRAC 9.xlsx
+F: PRÀCTICA 1.docx
+F: PRÀCTICA 2 Termo.xlsx
+F: PRÀCTICA 2.xlsx
+F: PRÀCTICA 3 Termo.xlsx
+F: PRÀCTICA 4 Termo.xlsx
+F: PRÀCTICA 7 llarga sida.docx
+F: PRÀCTICA 7 llarga sida.pdf
+F: pupurri practica llarga.xlsx
+F: puta merda.xlsx
+F: cugran torresgusta.xls
+F: cupetit torresgusta.xls
+F: GUIONS 2017-18.pdf
+F: PRAC 5.xlsx
+F: PRACTICA 5 Termo.docx
+F: ultima practica.xlsx
+F: examens_termo [Solucions a molts exàmens].pdf
+F: Formulari (1).pdf
+D: 4t semestre
+D: Electro
+D: Electroamgnetisme
+D: Apunts
+D: APUNTS CÈSAR
+F: PreparaciÃ³ del curs primavera 2015 DielÃ¨ctrics(1).pdf
+F: PreparaciÃ³ del curs primavera 2015 DielÃ¨ctrics.pdf
+F: PreparaciÃ³ del curs primavera 2015 ElectrostÃ tica de conductors(1).pdf
+F: PreparaciÃ³ del curs primavera 2015 ElectrostÃ tica de conductors.pdf
+F: PreparaciÃ³ del curs primavera 2015 Energia(1).pdf
+F: PreparaciÃ³ del curs primavera 2015 Energia.pdf
+F: PreparaciÃ³ del curs primavera 2015. ElectrocinÃ¨tica(1).pdf
+F: PreparaciÃ³ del curs primavera 2015. ElectrocinÃ¨tica.pdf
+F: PreparaciÃ³ del curs tardor 2012 Camp elÃ¨ctric i potencial(1).pdf
+F: PreparaciÃ³ del curs tardor 2012 Camp elÃ¨ctric i potencial.pdf
+F: PreparaciÃ³ del curs tardor 2012 InducciÃ³ i energia magnÃ¨tica (2) (1).pdf
+F: PreparaciÃ³ del curs tardor 2012 InducciÃ³ i energia magnÃ¨tica (2) .pdf
+F: PreparaciÃ³ del curs tardor 2012 MagnetostÃ tica del buit.pdf 2(1).pdf
+F: PreparaciÃ³ del curs tardor 2012 MagnetostÃ tica del buit.pdf 2.pdf
+F: PreparaciÃ³ del curs tardor 2012 Medis magnÃ¨tics(1).pdf
+F: PreparaciÃ³ del curs tardor 2012 Medis magnÃ¨tics.pdf
+F: PreparaciÃ³ del curs tardor 2012 Ones electromagnÃ¨tiques (2)(1).pdf
+F: PreparaciÃ³ del curs tardor 2012 Ones electromagnÃ¨tiques (2).pdf
+D: Llibre Varela
+D: Apunts (Extra)
+F: 01-Portada.pdf
+F: 02-Índex.pdf
+F: 03-Electrostática en el vacío.pdf
+F: 04-Electrostática en medios dieléctricos.pdf
+F: 05-Electrostática en medios conductores.pdf
+F: 06-Energía y fuerzas electrostáticas.pdf
+F: 07-Electrocinética.pdf
+F: 08-Magnetostatica en el vacío.pdf
+F: 09-Magnetostática en medios materiales.pdf
+F: 10-Inducción electromagnética. Energía y fuerzas magnéticas.pdf
+F: 11-Ecuaciones de Maxwell.pdf
+F: 12-Corriente alterna.pdf
+F: 13-BIBLIOGRAFÍ?A.pdf
+F: formulario.pdf
+F: apuntes-2015.pdf
+F: delta_de_Dirac.pdf
+F: Desplazamiento_y_Polarizacion.pdf
+F: Dirichlet conditions and Green functions.pdf
+F: divergencia_i_rotacional.pdf
+F: Electromagnetisme.rar
+F: Image Method (examples).pdf
+F: Manual C. Ferrater.zip
+F: Manual Varela.zip
+F: Manuel_Varela.rar
+F: Revisio_dipols_FEiO.pdf
+F: Surface_Force.pdf
+F: teorema_del_valor_mig.pdf
+F: Teoremas derivados de las ecuaciones de Poisson_Laplace.pdf
+D: Exàmens
+D: Finals
+F: 1998.06 Electromagnetisme (enunciats).pdf
+F: 1998.07 Electromagnetisme (enunciats).pdf
+F: 1999.06 Electromagnetisme (enunciats).pdf
+F: 1999.07 Electromagnetisme (enunciats).pdf
+F: 2000.01 Electromagnetisme (enunciats).pdf
+F: 2001.01 Electromagnetisme (enunciats).pdf
+F: 2014.06 Electromagnetisme (test, problemes i solucions).pdf
+F: 2015.06 Electromagnetisme (problemes + solució).pdf
+F: 2015.06 Electromagnetisme (test + solució).pdf
+F: 2015.09 Electromagnetisme (test, problemes i solucions).pdf
+F: 2016.06 Electromagnetisme (test, problemes i solucions).pdf
+F: 2016.09 Electromagnetisme (test, problemes i solucions).pdf
+F: 230000-01-02.pdf
+F: 230000-01-03.pdf
+F: 230000-01-04.pdf
+F: 230000-01-05.pdf
+F: 230000-06-00.pdf
+F: 230000-06-01.pdf
+F: 230000-06-02.pdf
+F: 230000-06-03.pdf
+F: 230000-06-04.pdf
+F: Gener05.pdf
+F: Gener06.pdf
+F: Gener07.pdf
+F: Gener08.pdf
+F: Gener09.pdf
+F: ju05.pdf
+F: ju06.pdf
+F: ju06proble.pdf
+F: ju07.pdf
+F: ju07proble.pdf
+F: Recopilació Finals Electromagnetisme Varela (2001-2011).pdf
+F: Resoluci_F3n_20examen_20problemas [Gener 2003].pdf
+F: 99.01. Examen junio 2015.pdf
+F: 99.03. Examen cuestiones junio 2015 versión final 3.pdf
+F: Ex2015 Setembre questions.pdf
+F: Examen cuestiones junio 2016 versión final.pdf
+F: Examen cuestiones septiembre 2016 versión final.pdf
+F: Examen problemas junio 14 resolución.pdf
+F: Examenes_2001-2009_resolucion.pdf
+F: Examenes_2001-2010_resolucion.pdf
+F: Examens 1998-2009.rar
+F: Exàmens 00-11 (1).pdf
+F: Exàmens 00-11.pdf
+F: Juny2014-Enunciats.pdf
+F: Juny2014-Solucions.pdf
+F: Problemes juny 2015(1).pdf
+F: Recopilació Finals Electromagnetisme (1998-2016).pdf
+F: Resolución examen cuestiones junio 2016 versión final.pdf
+F: Resolución examen cuestiones septiembre 2016 versión final.pdf
+D: Llibres
+F: The Feynman Lectures on Physics Vol 2 Electromagnetism and Matter.pdf
+D: Problemes
+D: Jackson - Problemes i solucions
+F: Complete Solutions.pdf
+F: F07 Final_Solutions.pdf
+F: F07_hw01.pdf
+F: F07_hw01a.pdf
+F: F07_hw02.pdf
+F: F07_hw02a.pdf
+F: F07_hw03.pdf
+F: F07_hw03a.pdf
+F: F07_hw04.pdf
+F: F07_hw04a.pdf
+F: F07_hw05.pdf
+F: F07_hw05a.pdf
+F: F07_hw06.pdf
+F: F07_hw06a.pdf
+F: F07_hw07.pdf
+F: F07_hw07a.pdf
+F: F07_hw08.pdf
+F: F07_hw08a.pdf
+F: F07_hw09.pdf
+F: F07_hw09a.pdf
+F: F07_hw10.pdf
+F: F07_hw10a.pdf
+F: F07_hw11.pdf
+F: F07_hw11a.pdf
+F: F07_Midterm_Solutions.pdf
+F: F07_Practice_Final.pdf
+F: F07_Practice_Final_Solutions.pdf
+F: F07_Practice_Midterm.pdf
+F: F07_Practice_Midterm_Solutions.pdf
+F: finprac.pdf
+F: finpracsoln.pdf
+F: hw01.pdf
+F: hw01a.pdf
+F: hw02.pdf
+F: hw02a.pdf
+F: hw03.pdf
+F: hw03a.pdf
+F: hw04.pdf
+F: hw04a.pdf
+F: hw05.pdf
+F: hw05a.pdf
+F: hw06.pdf
+F: hw06a.pdf
+F: hw07.pdf
+F: hw07a.pdf
+F: hw08.pdf
+F: hw08a.pdf
+F: hw09.pdf
+F: hw09a.pdf
+F: hw10.pdf
+F: hw10a.pdf
+F: hw11.pdf
+F: hw11a.pdf
+F: jack5b.pdf
+F: midprac.pdf
+F: midpraca.pdf
+F: midterma.pdf
+F: p2s.pdf
+F: 00. Problemas resueltos electromagnetismo.pdf
+F: Cilindre Potencial vector i camp.pdf
+F: Electromagnetisme problemes 14-15.pdf
+F: Electromagnetisme problemes 16-17.pdf
+F: Electromagnetisme problemes 17-18 [CV].pdf
+F: ProbElectro_Adame.pdf
+F: ProbElectro_Resolts.pdf
+F: problema_dielectrics.pdf
+F: Problemas resolts- electromagnetisme.pdf
+F: Problemas resueltos (1).pdf
+F: Problemas resueltos electromagnetismo.pdf
+F: Problemas resueltos Varela.pdf
+F: Problemas resueltos.pdf
+F: Problemas_Tema1_09-10.pdf
+F: Problemes resolts- electromagnetisme.pdf
+F: Problemes resolts.zip
+F: Refraccion Lineas de Campo en un Dielectrico.pdf
+F: Soluciones_Cuestiones_Tema2.pdf
+D: Pràctiques
+F: electro8uri.docx
+F: FULL_INFORME5_v7.pdf
+F: Guio 6.pdf
+F: Guio2.pdf
+F: lab_informes_hoffmann+navas.pdf
+F: P6 Mesura del camp magnètic de la Terra.pdf
+F: p7 elecrto.pdf
+F: Practica 12.pdf
+F: Practica 3. Caracteristica d_una cèl·lula.pdf
+F: practica I.xlsx
+F: practica9definitiva.pdf
+F: Pràctica 6 - Informe.pdf
+D: Resums i formularis
+F: Coordenadas cilindricas y esfericas.pdf
+F: Electromagnetisme formulari 15-16.pdf
+F: Electromagnetisme formulari 16-17 [CV].pdf
+F: Electromagnetisme_formulari.pdf
+F: Formulari_Electromagnetisme_2012.pdf
+F: formulario.pdf
+F: breu_historia_electromagnetisme.pdf
+F: FULL_INFORME1_v3.odt
+F: Recopilatori de guions electro.pdf
+F: Recopilatori informes buits electro.pdf
+F: electroimant.odt
+F: Guio2_v1_5.pdf
+F: Guio3_v1_4.pdf
+F: Guio5_v10.pdf
+F: Guio9T_v3.pdf
+F: P7 electro.odt
+F: p9.odt
+F: Pr4ct1c4 515 d4d35.xlsx
+F: Practica 1 dades.xlsx
+F: Practica 10 dades.xlsx
+F: Practica 11 dades.xlsx
+F: Practica 12 dades.xlsx
+F: Practica 2 dades (version 1).xlsx
+F: Practica 2 dades.xlsx
+F: practica 3 dades.xlsx
+F: Practica 4 dades.xlsx
+F: Practica 5 dades.xlsx
+F: Practica 7 dades.xlsx
+F: Practica 8 dades.xlsx
+F: Practica 9 dades.xlsx
+F: Pràctica 9.docx
+F: una mica de electro.docx
+D: Meteo
+D: Diapos
+F: Additional_Problems_Radiation.pdf
+F: CLOUD-PHYSICS-SPANISH.pdf
+F: CLOUD_CLASSIFICATION_AHRENS (1).pdf
+F: CLOUD_PROBLEMS.pdf
+F: COMMENTS_ON_THIS_QUIZZ.pdf
+F: convective_condensation.pdf
+F: DAY-RH.pdf
+F: DAY10.pdf
+F: DAY11.pdf
+F: DAY12.pdf
+F: DAY13.pdf
+F: DAY18.pdf
+F: DAY19 (1).pdf
+F: DAY19.pdf
+F: DAY2.pdf
+F: DAY21.pdf
+F: DAY22.pdf
+F: DAY23.pdf
+F: DAY24.pdf
+F: DAY25.pdf
+F: DAY26.pdf
+F: DAY27.pdf
+F: DAY3.pdf
+F: DAY30.pdf
+F: DAY31.pdf
+F: DAY33.pdf
+F: DAY34.pdf
+F: DAY35.pdf
+F: DAY4.pdf
+F: DAY46.pdf
+F: DAY47.pdf
+F: DAY48.pdf
+F: DAY49.pdf
+F: DAY5.pdf
+F: DAY50.pdf
+F: DAY6.pdf
+F: DAY7.pdf
+F: DAY8.pdf
+F: DAY9.pdf
+F: Diversos problemes resolts al CV (Ileana).docx
+F: Diversos problemes resolts al CV (Ileana).pdf
+F: DRY-STABILITY.pdf
+F: DYNAMICS 5.pdf
+F: LAST-MOIST.pdf
+F: MISS.pdf
+F: MOIST-1.pdf
+F: MOIST-ASCENT.pdf
+F: moiststability.pdf
+F: MOISTURE_PARAMETERS.pdf
+F: prob1.9.pdf
+F: problem 2.7.png
+F: PROBLEM-DAY43.pdf
+F: PROBLEM_THERMO_VIDEO.pdf
+F: Problemes-Huracans-4.pdf
+F: Radiation_2014_catalan.pdf
+F: Radiation_2017_FIGURES.pdf
+F: Rd-5.pdf
+F: SCALE-ANALYSIS-THERMALWIND.pdf
+F: SOL_PROBLEM TA9.pdf
+F: SOLUCION TA8.pdf
+F: SOLUCIONS_TA12a.pdf
+F: SOLUCIONS_THERMO2 TA12.pdf
+F: SolucionsPD3-4.pdf
+F: SolucioPD6.pdf
+F: Solution2-10.pdf
+F: Solution_Radiation_Problem.mp4
+F: THERMAL-WIND.pdf
+F: THERMWINDCONF.pdf
+F: 2011 EXAMEN_FINAL_CONTINUADA.pdf
+F: 2011 EXAMEN_FINAL_UNICA.pdf
+F: ap,550x550,12x16,1,transparent,t.u1.png
+F: Atmospheric Science -Wallace -Hobbs.pdf
+F: EXAMSAMPLE1.pdf
+F: KYZZES (wis solusion).pdf
+F: KYZZES.docx
+F: nuvol.jpg
+F: Practica 1 analisi sinoptica_2018.pdf
+F: QUIZ9_2018_sol.pdf
+F: Screen_shot_2013-06-03_at_11.23.08_AM.png
+F: ylg.gif
+D: MM2
+D: Examenes
+D: Juny 2012
+D: Set2015
+F: 2016-Problemes de  MMFII-Grau.pdf
+F: Enunciat-Juny-2012.pdf
+F: Examen 26 Juny 2017 (solucions).pdf
+F: Examen MMFII-v1%281Setembre2014%29.pdf
+F: Examen MMFII-v1(1-Set-2015).pdf
+F: Examen MMFII-v1-Solns(1-Set-2015)-1.pdf
+F: Examen MMFII-v1-Solns(1-Set-2015).pdf
+F: Examen-2012-juny-Solucio_merged.pdf
+F: ExamenResoltMMFII-18gener2011.pdf
+F: ExamenResoltMMFII-Gener2012.pdf
+F: ExamenResoltMMFII-Juny2011.pdf
+F: ExamenResoltMMFII-Setembre2011.pdf
+F: Juny2015.pdf
+F: mm2-30juny2010-Apartat-Ed-Dif.pdf
+F: P2-dibuixt.pdf
+F: setembre2014_solucions.pdf
+F: sol MMF2-JUNIO2016.pdf
+D: Òptica
+D: Pràctiques
+D: FETES
+D: P1
+F: P1 sida.docx
+D: P2
+F: P2_Polaritzacio.pdf
+D: P3
+F: P3_Brewster.pdf
+F: P3_Brewster.xlsx
+F: Pràctica 3 Bowser.docx
+D: P4
+F: p4.xlsx
+F: P4_Young.pdf
+F: trash magica P4 suspens plastelina.docx
+D: P5
+F: prac 5.xlsx
+D: P6
+F: difraccio cercle.png
+F: difraccio doble O.png
+F: difraccio doble rectangle.png
+F: difraccio rectangle.png
+F: fila cercle.csv
+F: fila doble cercle.csv
+F: fila doble rectangle.csv
+F: fila rectangle.csv
+F: P6_Difraccio.pdf
+F: Practica 6 fotos.docx
+F: Pràctica 6 - G. Sánchez i M. Gustamante.pdf
+F: Pràctica 6 Final.docx
+F: Pràctica 6.docx
+F: Pràctica 6.xlsx
+D: P7
+F: P7.xlsx
+F: P7a_Index.pdf
+F: LabOptNormat17_18_Prim_Estela.pdf
+F: pol circular.docx
+D: Òptica (TRIGGERED)
+D: Apunts - Teoria
+D: Diapos M2
+F: 2 història-català-resum.pdf
+F: 3 optica geometrica.pdf
+F: 4 ull.pdf
+F: 5 instruments.pdf
+F: 6 ones electromag.pdf
+F: 7 formules de Fresnel.pdf
+F: aberracions.pdf
+F: Camí Òptic.pdf
+F: medis_anisotrops.pdf
+F: miratges.pdf
+F: ones (Triggered).pdf
+F: vel-llum.pdf
+F: 5 instruments.pdf
+F: Apunts del curs [CV].pdf
+F: EqMaxwell.pdf
+F: Form_SistCom_Lents.pdf
+F: historia-catala.pdf
+F: Lecture11-WavePackets.pdf
+F: ÒPTICA.pdf
+D: Exàmens
+D: Finals
+F: 2000gener.pdf
+F: 2000juny.pdf
+F: 2001gener.pdf
+F: 2001juny(1).pdf
+F: 2001juny.pdf
+F: 2002gener.pdf
+F: 2002juny.pdf
+F: 2003gener.pdf
+F: 2004gener.pdf
+F: 2004juny.pdf
+F: 2005gener.pdf
+F: 2005juny.pdf
+F: 2006gener.pdf
+F: 2006juny.pdf
+F: 2007gener(1).pdf
+F: 2007gener.pdf
+F: 2007juny(1).pdf
+F: 2007juny.pdf
+F: 2008gener.pdf
+F: 2008juny.pdf
+F: 2009gener.pdf
+F: 2009juny.pdf
+F: 2010gener.pdf
+F: 2010juny.pdf
+F: Examens resolts òptica (2011-2013 crec).pdf
+F: Grau_2011Juny.pdf
+F: Grau_2011Set.pdf
+F: Grau_2012Gener.pdf
+F: Grau_2012Juny.pdf
+F: Grau_2013Gener.pdf
+F: Grau_2013Juny.pdf
+F: Grau_2013Set.pdf
+F: Recopilació Finals Òptica (2000-2013).pdf
+D: Llibres
+F: 185384654-Optica-Justiniano-Casas.pdf
+F: BornWolf-PrinciplesOfOptics_text.pdf
+F: Optique-Hecht [En francès_ l_entén el Pierre Croissnell].pdf
+D: Problemes
+D: Exercici 1 d_Avaluació Contínua que tothom per alguna raó ha penjat a l_Hipercub
+F: Albert_Riquelme_Rodriguez_applet1.pdf
+F: Albert_Riquelme_Rodriguez_applet2.pdf
+F: Ejerc1_continua2014.pdf
+F: Entrega 1.pdf
+F: GómezAlba_1.pdf
+F: M1_EsteveJordi_1.pdf
+F: M1_MiroslavovStamen_1.pdf
+F: M1_SevillaIvan_1.pdf
+F: M2_EstevePau_1.pdf
+F: optica.av.cont1.pdf
+F: Rivera_Mar_ExerciciOptica1.pdf
+F: T1_NiuboVictor_1.pdf
+D: Exercici 2 d_Avaluació Contínua que tothom per alguna raó ha penjat a l_Hipercub
+F: Carla_Verrière_Costa_M1.pdf
+F: Ejerc2_continua2014.pdf
+F: Entrega 2.pdf
+F: fabry perot avaluació continuada.docx
+F: Joan_Falcó_Roget_M2.pdf
+F: M1_applet2013_2.pdf
+F: M1_EsteveJordi_2.pdf
+F: Pol_Bieto_Luengo_applet2.pdf
+F: RiveraMar_2.pdf
+D: Qüestionaris
+F: ResposteLabQuestionaris.pdf
+F: Llibre Problemes Optica, Optica fisica, pagina 61-123.pdf
+F: Llibre Problemes Optica, Optica geometrica, pagina 1-60.pdf
+F: PrOptGrau16_17 [CV].pdf
+F: ResoluciÃ³ problemes instruments Ã²ptics.pdf
+D: Pràctiques
+D: Pràctica 1
+F: P1-informe.pdf
+F: practica 1.pdf
+F: Pràctica 1.pdf
+D: Pràctica 2
+F: P2-informe.pdf
+F: Practica 2.zip
+F: practica-2.pdf
+D: Pràctica 3
+F: P3-informe.pdf
+F: Practica 3.pdf
+D: Pràctica 4
+F: P4-informe(1).pdf
+F: P4-informe.pdf
+F: practica 4.pdf
+D: Pràctica 5
+F: P5-informe.pdf
+F: practica 5.pdf
+F: Pràctica 5 Michelson.pdf
+F: Pràctica V.xlsx
+F: Pràctica5Optica.docx
+D: Pràctica 6
+F: P6-informe.pdf
+F: practica 6.pdf
+D: Pràctica 7
+F: optica7.pdf
+F: P7-informe(1).pdf
+F: P7-informe.pdf
+F: P7a_Index.pdf
+F: PRACTICA 07A - OPTICA.xlsx
+F: practica 7.pdf
+D: Resums i formularis
+F: Formulari òptica.pdf
+F: formulari.pdf
+F: formulari_optica.pdf
+F: Practica4_Alvaro_Gamarra.pdf
+D: Fotonica
+D: p2 pc
+F: 1.png
+F: apartat5.ods
+F: practica2pc.odt
+D: PMario1
+F: dades.ods
+F: OnaEvanFrustrada.png
+F: OnaEvanFrustradaSetup.png
+F: OnesEvanecents.png
+F: Informe fotonica p1.docx
+F: Informe fotonica p3.docx
+F: Informe fotonica p4.docx
+F: P1 - FOT.pdf
+F: P3 - FOT.pdf
+F: P4 - FOT-LAPTOP-7UOFTOJU.pdf
+F: P4 - FOT.pdf
+F: P4-fotonica-dades.xlsx
+F: untitled1.png
+D: Física Atòmica i Radiació
+D: Apunts - Teoria
+F: 2017-notes-quantica-Salvat.pdf
+F: Apunts (José María)-20190922.zip
+F: Apunts Física atòmica. Helena Massana..pdf
+F: Atomica-FSalvat.pdf
+F: formulari_heli.pdf
+F: HF_2electrons.pdf
+F: HF_multie.pdf
+F: HF_propietats.pdf
+F: separacio_CM_atoms_multielectronics.pdf
+F: taules_i_figures_classe_tema1.pdf
+F: termes_permesos.pdf
+D: Exàmens
+D: Finals
+F: 2013_Gener_enunciats.pdf
+F: 2013_Gener_solucions.pdf
+F: 2014_Gener_solucions.pdf
+F: 2014_Juny_problemes_solucions.pdf
+F: 2014_Juny_questions_solucions.pdf
+F: 2014_Setembre_solucions.pdf
+F: 2015_Gener_solucions.pdf
+F: 2015_Juny_solucions.pdf
+F: 2016_Gener_solucions.pdf
+F: 2016_Juny_solucions.pdf
+F: 2017_Gener_solucions.pdf
+F: 2017_Juny_solucions.pdf
+F: 2017_Setembre_solucions.pdf
+F: 2018_Gener_solucions.pdf
+F: 2018_Juny_solucions.pdf
+F: 2018_Setembre-solucions.pdf
+F: 2019_gener-solucions.pdf
+F: 2019_Juny-solucions.pdf
+F: 2019_Setembre-solucions.pdf
+F: Exàmens Anteriors.pdf
+D: Parcials
+F: 2010_Tardor_1a_prova_M1-Artur.pdf
+F: 2010_Tardor_1a_prova_T1-Mario.pdf
+F: 2011_Tardor_1a_prova_T1-Mario.pdf
+F: 2012_Tardor_1a_prova_Mario.pdf
+F: 2012_Tardor_1a_prova_Mario_sol.pdf
+F: 2013_primavera_1a_prova_T1_Barranco.pdf.pdf
+F: 2013_Tardor_1a_prova_M1_Angels.pdf
+F: 2013_Tardor_1a_prova_T1_Mario.pdf
+F: 2014_Primavera_1a_prova_T1.pdf.pdf
+F: 2014_primavera_2a_prova_T1_Manuel.pdf
+F: 2014_Tardor_1a_prova_M1_Angels.pdf
+F: 2014_Tardor_1a_prova_T1_Mario.pdf
+F: 2014_Tardor_2a_prova_M1_Angels.pdf
+F: 2014_Tardor_2a_prova_T1_Mario.pdf
+F: 2016_Novembre_enunciats-solucions-T1.pdf
+F: 2017_Primavera_enunciats-solucions-T1.pdf
+F: 2017_Tardor_enunciats-solucions-T1.pdf
+F: 2018_Primavera_enunciats-solucions-T1.pdf
+F: 2018_Tardor_enunciats-solucions-T1.pdf
+F: 2019_Primavera_enunciats-solucions-T1.pdf
+F: continua15-16_M1_tardor_solucions.pdf
+F: parcial_novembre2017_JMFernández.pdf
+D: Problemes
+F: solucions-problemes-FAiR.pdf
+D: Resums i formularis
+F: Formulari (1).pdf
+F: Formulari Atòmica.pdf
+F: Formulari Física Atòmica i Radiació.pdf
+F: Formulari Física Atòmica.pdf
+F: formulari.pdf
+F: FormulariFAIR.docx
+F: Fundamental Physical Constants - Extensive Listing.pdf
+D: Física de l_Estat Sòlid
+D: Apunts i teoria
+F: Apunts 2. Cristal·lografia.pdf
+F: Apunts 3. Difracció elàstica.pdf
+F: Apunts 4. Gas d_electrons. Teorema de Bloch.pdf
+F: Apunts 5. Conseqüències del teorema de Bloch.pdf
+F: Apunts 6. Classificació dels sòlids.pdf
+F: Apunts 7. Propietats del transport.pdf
+F: Apunts 8. Moviment dels ions. Fonons.pdf
+F: Apunts_FES_units.pdf
+F: fes_pwp_unit.pdf
+F: Fisica Estat Solid_r.pdf
+F: Simetria Cristalina.pdf
+F: Tipus de xarxes de Bravais.pdf
+F: unitat 2 pbs ppt fes tardor 2016.pdf
+F: unitat 5 apunts fes tardor 2014.pdf
+D: Exàmens
+D: FES_finals
+D: __MACOSX
+D: FES_exfinals
+F: ._2000-gener.pdf
+F: ._2000-juny.pdf
+F: ._2001-gener.pdf
+F: ._2001-juny.pdf
+F: ._2002-gener.pdf
+F: ._2002-juny.pdf
+F: ._2003-gener_2.pdf
+F: ._2003-gener_3.pdf
+F: ._2003-gener_4.pdf
+F: ._2003-juny_1.pdf
+F: ._2003-juny_2.pdf
+F: ._2003-juny_3.pdf
+F: ._2003-juny_4.pdf
+F: ._2004-gener_A1.pdf
+F: ._2004-gener_A2.pdf
+F: ._2004-gener_B1.pdf
+F: ._2004-gener_B2.pdf
+F: ._2004-juny_A1.pdf
+F: ._2004-juny_A2.pdf
+F: ._2004-juny_B2.pdf
+F: ._2005-gener_A1.pdf
+F: ._2005-gener_B1.pdf
+F: ._2005-gener_B2.pdf
+F: ._2005-juny_A1.pdf
+F: ._2005-juny_A2.pdf
+F: ._2005-juny_B1.pdf
+F: ._2005-juny_B2.pdf
+F: ._2009-juny_A1.pdf
+F: ._2009-juny_A2.pdf
+F: ._2009-juny_B1.pdf
+F: ._2009-juny_B2.pdf
+F: ._2012-gener_A1.pdf
+F: ._2012-gener_A2.pdf
+F: ._2012-gener_B1.pdf
+F: ._2012-gener_B2.pdf
+F: ._2012-juny_A1.pdf
+F: ._2012-juny_A2.pdf
+F: ._2012-juny_B1.pdf
+F: ._2012-juny_B2.pdf
+F: ._2013-gener_A1.pdf
+F: ._2013-gener_A2.pdf
+F: ._2013-gener_B1.pdf
+F: ._2013-gener_B2.pdf
+F: ._2013-juny_A1.pdf
+F: ._2013-juny_A2.pdf
+F: ._2013-juny_B1.pdf
+F: ._2013-juny_B2.pdf
+F: ._2014-gener_A1.pdf
+F: ._2014-gener_A2.pdf
+F: ._2014-gener_B1.pdf
+F: ._2014-gener_B2.pdf
+F: ._2014-juny_A1.pdf
+F: ._2014-juny_A2.pdf
+F: ._2014-juny_B1.pdf
+F: ._2014-juny_B2.pdf
+D: FES_exfinals
+F: 2000-gener.pdf
+F: 2000-juny.pdf
+F: 2001-gener.pdf
+F: 2001-juny.pdf
+F: 2002-gener.pdf
+F: 2002-juny.pdf
+F: 2003-gener_2.pdf
+F: 2003-gener_3.pdf
+F: 2003-gener_4.pdf
+F: 2003-juny_1.pdf
+F: 2003-juny_2.pdf
+F: 2003-juny_3.pdf
+F: 2003-juny_4.pdf
+F: 2004-gener_A1.pdf
+F: 2004-gener_A2.pdf
+F: 2004-gener_B1.pdf
+F: 2004-gener_B2.pdf
+F: 2004-juny_A1.pdf
+F: 2004-juny_A2.pdf
+F: 2004-juny_B2.pdf
+F: 2005-gener_A1.pdf
+F: 2005-gener_B1.pdf
+F: 2005-gener_B2.pdf
+F: 2005-juny_A1.pdf
+F: 2005-juny_A2.pdf
+F: 2005-juny_B1.pdf
+F: 2005-juny_B2.pdf
+F: 2009-juny_A1.pdf
+F: 2009-juny_A2.pdf
+F: 2009-juny_B1.pdf
+F: 2009-juny_B2.pdf
+F: 2012-gener_A1.pdf
+F: 2012-gener_A2.pdf
+F: 2012-gener_B1.pdf
+F: 2012-gener_B2.pdf
+F: 2012-juny_A1.pdf
+F: 2012-juny_A2.pdf
+F: 2012-juny_B1.pdf
+F: 2012-juny_B2.pdf
+F: 2013-gener_A1.pdf
+F: 2013-gener_A2.pdf
+F: 2013-gener_B1.pdf
+F: 2013-gener_B2.pdf
+F: 2013-juny_A1.pdf
+F: 2013-juny_A2.pdf
+F: 2013-juny_B1.pdf
+F: 2013-juny_B2.pdf
+F: 2014-gener_A1.pdf
+F: 2014-gener_A2.pdf
+F: 2014-gener_B1.pdf
+F: 2014-gener_B2.pdf
+F: 2014-juny_A1.pdf
+F: 2014-juny_A2.pdf
+F: 2014-juny_B1.pdf
+F: 2014-juny_B2.pdf
+D: parcial-1
+F: 2010-primavera.pdf
+F: 2013-primavera.pdf
+F: 2013-tardor.pdf
+F: 2014-primavera.pdf
+F: IMG_20181126_0001.pdf
+F: ParcialTardor2014GM1.pdf
+F: ParcialTArdor2014GT1 (1).pdf
+F: Primer_parcial (1).zip
+D: parcial-2
+F: 2012-tardor.pdf
+F: 2013-primavera.pdf
+F: 2013-tardor.pdf
+F: 2014-primavera.pdf
+D: problemes-cap-setmana
+F: 2013-primavera.pdf
+F: 2013-tardor.pdf
+F: 2014-primavera.pdf
+F: 2016g.zip
+F: avaluació continuada fes tardor 2017.pdf
+F: control acreditatiu 03 T1 10 des 2015 solucions.pdf
+F: EstatSolidExamens2012.zip
+F: FES_finals.zip
+F: fes_gener_2017.pdf
+F: Finals+solucions 2016+g2017.tar.gz
+F: IMG_20181126_0001.pdf
+F: ParcialTardor2014GM1.pdf
+F: ParcialTArdor2014GT1.pdf
+F: PCS_fes_tardor2015_solucions.pdf
+F: Primer_parcial.zip
+D: Formularis
+F: Copia de formulari.pdf
+F: Formulari (1).pdf
+F: Formulari (2).pdf
+F: Formulari.pdf
+D: Problemes
+F: FES_14P_problemes-resolts.pdf
+F: PCSFES_solucio.pdf
+F: Copia de formulari.pdf
+F: Fisica Estat Solid_r.pdf
+D: Física estadística (SOL)
+D: Altres
+F: massieu.pdf
+D: Apunts _ Teoria
+D: apunts combinatoria
+D: Apunts i problemes tardor 11-12
+F: 1.repas.pdf
+F: C3.pdf
+F: C4.pdf
+F: CAP1.pdf
+F: CAP2.pdf
+D: Curs Física estadística (UdG)
+F: seminario_ti.pdf
+F: sol_examen_1.pdf
+F: sol_parcial_feb.pdf
+F: tema10fe.pdf
+F: tema12fe.pdf
+F: tema13.pdf
+F: tema1fe.pdf
+F: tema2fe.pdf
+F: tema3fe.pdf
+F: tema4fe.pdf
+F: tema5fe.pdf
+F: tema6fe.pdf
+F: tema7fe.pdf
+F: tema8fe.pdf
+F: tema9fe.pdf
+D: Física estadística Dani Marín
+F: 1. Introducció a la Física Estadística.pdf
+F: 2. La col·lectivitat canònica.pdf
+F: 2. La col·lectivitat microcanònica.pdf
+F: 4. La col·lectivitat grancanònica.pdf
+F: 5. Mecànica estadística quàntica.pdf
+F: 6. Aplicacions de l_estadística de Maxwell-Boltzmann.pdf
+F: 7. Aplicacions de l_estadística de Bose-Einstein.pdf
+F: 8. Aplicacions de l_estadística de Fermi-Dirac.pdf
+F: Errors, queixes, suggeriments - danielmarinpina@gmailcom.txt
+F: Tot.pdf
+F: Apunts Fiesta [quàntica].pdf
+F: Apunts Física Estadística (Internet).pdf
+F: CAMBRIDGE chap3 Quantum gases.pdf
+F: Física estadística Dani Marín.zip
+F: Physical Constants and Mathematical Relations [CV].pdf
+F: probabilitat.pdf
+F: Resum Probabilitat [CV].pdf
+F: statphys.pdf
+F: Temes-45.pdf
+F: termodinamica.pdf
+F: Volum i superfície d_una hiperesfera [CV].pdf
+D: Apunts QMS
+F: Apunts_AplicacionsBE_QMS.pdf
+F: Apunts_AplicacionsFD_QMS.pdf
+F: Apunts_Canònica_QMS.pdf
+F: Apunts_EstadístiquesQuàntiques_QMS.pdf
+F: Apunts_Macrocanònica_QMS.pdf
+F: Apunts_Microcanònica_QMS.pdf
+F: ApuntsFiestaAjuntats_QMS.pdf
+D: Entregues
+F: Entrega1_QueraltMartin.pdf
+F: Ex26_QueraltMartin.pdf
+F: Ex36_QueraltMartin.pdf
+F: Ex52_QueraltMartin.pdf
+F: Vibracions_Queralt.pdf
+D: Exàmens
+D: Finals
+D: Examens 2015-2017
+F: final1415-gener_v3_solucions.pdf
+F: final1415-setembre-v2.pdf
+F: final15-16-gener_v3.pdf
+F: final15-16-june_v2.pdf
+F: final15-16-setembre-v3-withsolutions.pdf
+F: final16-17-setembre_v1.pdf
+F: ParcialTardor2015.pdf
+D: Examens resolts 2015-2017.zip (Unzipped Files)
+D: Examens 2015-2017
+F: final1415-gener_v3_solucions.pdf
+F: final1415-setembre-v2.pdf
+F: final15-16-gener_v3.pdf
+F: final15-16-june_v2.pdf
+F: final15-16-setembre-v3-withsolutions.pdf
+F: final16-17-setembre_v1.pdf
+F: ParcialTardor2015.pdf
+F: 2019.01 Fiesta (enunciats i solucions).pdf
+F: Examens resolts 2015-2017.zip
+F: final juny.pdf
+F: final16-17-june_v2.pdf
+F: final16-17-setembre_v1.pdf
+F: final17-18-juny-v2.pdf
+F: final17-18-setembre-v2.pdf
+F: Gener 2014.pdf
+D: Finals de fa molts anys
+F: 1126178503_230021-01-05.pdf
+F: 1157021463_230021-02-06.pdf
+F: correccio_2013.pdf
+F: ExamFinalSol.pdf
+F: Febrer 02.pdf
+F: Febrer 06.pdf
+F: Gener 00 (Copia en conflicto de Mireia Ramis Masachs 2013-10-13).pdf
+F: Gener 00.pdf
+F: Gener 01.pdf
+F: Gener 03.pdf
+F: Gener 05.pdf
+F: gener2010.pdf
+F: gener2011.pdf
+F: gener2012 (Copia en conflicto de Mireia Ramis Masachs 2013-10-13).pdf
+F: gener2012.pdf
+F: Juny 00.pdf
+F: Juny 01.pdf
+F: sol.pdf
+F: solexam2012.pdf
+F: {27C1FC19-60CB-42AB-A0CA-AB4A76287BC7}_230021-01-00.pdf
+F: {27E4E74D-4DB8-4BB1-BF8F-B1A46874ECC6}_230021-01-01.pdf
+F: {363D7CA0-B8E7-4378-A13B-9969CC7E11FD}_230021-06-01.pdf
+F: {385051D8-E121-40E8-BFD3-3CD8D8FF5D38}_230021-02-02.pdf
+F: {B9B2EB75-E726-4C9C-B817-CE15DF6724BB}_230021-01-03.pdf
+F: {C56CB672-61D3-4C42-B66D-302DDF1D5966}_230021-06-00.pdf
+D: Parcials
+F: AvalCont.pdf
+F: AvalCont2.pdf
+F: Parcial 1.pdf
+F: ParcialPrimavera2018.pdf
+F: ParcialPrimavera2019_0b99647f8a9e10f4f97b85f83052fbd9.pdf
+D: Pathria o muerte, venceremos
+F: 1. Historical introduction.pdf
+F: 10. Statistical mechanics of interacting systems.pdf
+F: 11. Phase transitions.pdf
+F: 12. Phase transitions.pdf
+F: 13. Phase transitions.pdf
+F: 14. Fluctuations.htm
+F: 2. Elements of ensemble theory.pdf
+F: 3. The canonical ensemble.pdf
+F: 4. The grand canonical ensemble.pdf
+F: 5. Formulation of quantum statistics.pdf
+F: 6. The theory of simple gases.pdf
+F: 7. Ideal bose systems.pdf
+F: 8. Ideal fermi systems.pdf
+F: 9. Statistical mechanics of interacting systems.pdf
+F: Appendixes A.pdf
+F: Appendixes B.pdf
+F: Appendixes C.pdf
+F: Appendixes D.pdf
+F: Appendixes E.pdf
+F: Appendixes F.pdf
+F: Bibliography.pdf
+F: Index.pdf
+F: Pathria, Statistical mechanics.rar
+F: SOLUCIONARI Pathria_ Statistical Mechanics.pdf
+D: Problemes
+D: Exc. extra
+F: Solució exercici extra 2.pdf
+F: Solució exercici extra 3.pdf
+F: Solució exercici extra 4.pdf
+F: Solució exercici extra 5.pdf
+F: Solució exercici extra 6.pdf
+F: Solució exercici extra 7.pdf
+D: PROBLEMES RESOLTS
+F: problemes-penjats-Cap3.pdf
+F: problemes-penjats-Cap4.pdf
+F: problemes-penjats-Cap5.pdf
+F: problemes-penjats-Cap6 [CV].pdf
+F: problemes-penjats-Cap7.pdf
+F: problemes-penjats-Cap8.pdf
+F: Solucions problemes T1 [CV].pdf
+F: Solucions problemes T2 [CV].pdf
+F: 5 problemes de física estadística resolts.pdf
+F: Col·lecció de problemes [CV].pdf
+F: Combinatoria.pdf
+F: FiEsta_ProblemesResoltsAjuntat.pdf
+F: problemes-penjats-Cap6_9fd8cc418dfce3bc167ced67efe48a6e.pdf
+F: REPAS.pdf
+D: Resums i formularis
+F: festFORMULARI (física estadística).pdf
+F: Form_fiesta.pdf
+F: Formulari Física Estadística -- DEFINITIU.pdf
+F: Formulari Física Estadística -- DEFINITIU.tex
+F: Formulari Física Estadística -- PROVISIONAL.pdf
+F: Formulari Física Estadística -- PROVISIONAL.tex
+F: Formulari_Fiesta.pdf
+F: 5 problemes de física estadística resolts (Copia en conflicto de Mireia Ramis Masachs 2013-10-13).pdf
+F: Curso de Física Estadística (llibre de l_Ortín i el Sancho).pdf
+F: Problemes.pdf
+D: Física Nuclear i de Partícules
+D: Apunts - Teoria
+D: Diapos 2019
+F: BW-ressonancia.pdf
+F: Diapos_Nuclear_1920.pdf
+F: Tema-I-1920.pdf
+F: Tema-I.pdf
+F: Tema-II-1920.pdf
+F: Tema-IV-1920.pdf
+F: Tema-V-1920.pdf
+F: Tema3-1920.pdf
+F: 1)Partícules, interaccions i simetries.pdf
+F: 2) Nuclis i forces nuclears.pdf
+F: 3) Estabilitat Nuclear.pdf
+F: 4) Model de capes.pdf
+F: 5) Quarks i Hadrons, QCD.pdf
+F: 6) Leptons, Interacció EW .pdf
+F: Apunts Física nuclear. Helena Massana.pdf
+F: DJ__pp__Particulas elementales__Jaume Lopez Carballo.pdf
+F: El_tubo_de_rayos_x.pdf
+F: Física de Partículas.pdf
+D: Exàmens
+F: examen-juny-2018-resolt.pdf
+F: exgener2002.pdf
+F: exgener2003.pdf
+F: exgener2004.pdf
+F: exgener2005.pdf
+F: exgener2006.pdf
+F: exjuny07.pdf
+F: exjuny2002.pdf
+F: exjuny2003.pdf
+F: exjuny2004.pdf
+F: exjuny2005-2.pdf
+F: exjuny2005.pdf
+F: exjuny2006.pdf
+F: exsetembre2002.pdf
+F: exsetembre2003.pdf
+F: exsetembre2006.pdf
+F: gener2017.pdf
+F: Parcial_Nov2015.pdf
+F: Parcial_Nov2015_solucio.pdf
+F: soljuny06.pdf
+D: Problemes
+F: fnip_problema_1.13.pdf
+F: fnip_problema_1.15.pdf
+F: fnip_problema_1.16.pdf
+F: fnip_problema_1.17.pdf
+F: fnip_problema_1.19-programa_solucio_equacio_estats_lligats.f
+F: fnip_problema_1.19.pdf
+F: fnip_problema_1.20.pdf
+F: fnip_problema_2.10.pdf
+F: fnip_problema_2.14.pdf
+F: fnip_problema_2.2.pdf
+F: fnip_problema_2.3.pdf
+F: fnip_problema_2.4.pdf
+F: fnip_problema_2.7.pdf
+F: fnip_problema_2.8.pdf
+F: fnip_problema_2.9.pdf
+F: fnip_problema_3.2.pdf
+F: fnip_problema_3.3.pdf
+F: fnip_problema_3.4.pdf
+F: fnip_problema_3.5.pdf
+F: fnip_problema_4.12.pdf
+F: fnip_problema_4.13.pdf
+F: fnip_problema_4.14.pdf
+F: fnip_problema_4.15.pdf
+F: fnip_problema_4.16.pdf
+F: fnip_problema_4.2.pdf
+F: fnip_problema_4.3.pdf
+F: fnip_problema_4.4.pdf
+F: fnip_problema_4.7.pdf
+F: fnip_problema_4.8.pdf
+F: fnip_problema_4.9.pdf
+F: Problems And Solutions On Atomic, Nuclear, And Particle Physics - Kuo Lim.pdf
+D: Resums i formularis
+F: [PROVISIONAL] Formulari Física Nuclear.pdf
+F: Form_nuclear.pdf
+F: Formulari Física Nuclear.pdf
+F: Formulari_etern.docx
+D: Planta 8
+F: planta8Num45.pdf
+F: planta8Num46.pdf
+F: planta8Num47.pdf
+F: planta8Num48.pdf
+F: planta8Num49.pdf
+F: planta8Num53.pdf
+D: RESGUARDS
+F: pagam 6e sem (2).pdf
+F: pagam. 6e sem.pdf
+F: pract. 4t sem.pdf
+F: resguard 6è semestre.pdf
+F: resguard matr. 2n sem.pdf
+F: resguard matr. 3r sem.pdf
+F: resguard matr. 4t sem.pdf
+F: resguard matr. 6e sem.pdf
+F: sol_gral.pdf
+F: astro.pdf
+F: CERTIFICAT ACADEMIC.pdf
+F: foto campus.jpg
+F: png-transparent-no-symbol-sign-prohibited-signs-no-to-signage-miscellaneous-angle-text.png
+F: sant-andreu-comtal2.jpeg
+F: UB_Química_i_Física_Facultat_Barcelona.jfif
